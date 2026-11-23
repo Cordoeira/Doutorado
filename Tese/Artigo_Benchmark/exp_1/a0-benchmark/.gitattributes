@@ -1,0 +1,14 @@
+# fim de linha LF em tudo que e texto (os scripts rodam no WSL); CRLF so nos .ps1 e .bat
+* text=auto eol=lf
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+
+# binarios
+*.png binary
+*.pdf binary
+*.npy binary
+*.npz binary
+*.zip binary
+
+# registros em JSON Lines: texto, sem diff linha a linha
+*.jsonl text eol=lf -diff linguist-generated

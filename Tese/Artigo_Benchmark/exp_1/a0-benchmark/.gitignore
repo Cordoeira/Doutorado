@@ -1,0 +1,20 @@
+# ambientes e artefatos de instalacao
+.venv
+a0_env/
+*.egg-info/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# saidas de execucao: ficam no WSL (~/a0bench_runs), fora do git
+resultados*/
+teste*/
+_amici_models/
+*.zip
+*.log
+*.lock
+
+# sistema
+.DS_Store
+Thumbs.db
+desktop.ini

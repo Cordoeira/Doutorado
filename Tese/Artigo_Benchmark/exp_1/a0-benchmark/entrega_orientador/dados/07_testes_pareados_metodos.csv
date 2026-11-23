@@ -1,0 +1,16 @@
+metodo_a,metodo_b,mediana_dif_c2st,a_melhor,b_melhor,empate,p_wilcoxon,p_holm
+metropolis,npe,-0.1453,37,3,1,6.366e-11,9.55e-10
+ensemble,npe,-0.1138,35,4,2,4.108e-08,5.751e-07
+metropolis,hmc,-0.0433,38,0,3,5.683e-08,7.388e-07
+metropolis,mala,-0.02533,29,2,10,1.328e-06,1.594e-05
+laplace,metropolis,0.0425,4,28,9,5.035e-06,5.538e-05
+ensemble,hmc,-0.03103,34,3,4,5.75e-06,5.75e-05
+ensemble,mala,-0.0215,28,4,9,1.04e-05,9.357e-05
+metropolis,ensemble,-0.0105,24,6,11,5.035e-05,0.0004028
+hmc,npe,-0.06684,31,8,2,5.645e-05,0.0004028
+laplace,npe,-0.08267,32,7,2,0.0001581,0.0009487
+mala,npe,-0.07733,27,10,4,0.001022,0.005111
+laplace,ensemble,0.007167,11,22,8,0.005031,0.02013
+laplace,hmc,-0.01453,21,12,8,0.2356,0.7067
+mala,hmc,-0.009221,22,14,5,0.483,0.966
+laplace,mala,0,17,17,7,0.9333,0.966

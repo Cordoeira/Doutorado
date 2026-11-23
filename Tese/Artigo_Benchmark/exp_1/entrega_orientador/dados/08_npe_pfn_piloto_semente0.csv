@@ -1,0 +1,19 @@
+classe,rotulo,d,metropolis,npe,npe_pfn
+EDO,Brusselator,2,0.507,0.774,0.798
+EDO,FitzHugh–Nagumo,3,0.515,0.842,0.912
+EDO,Lorenz-63,3,0.521,0.758,0.679
+EDO,Oscilador forçado,3,0.494,0.754,0.692
+EDO,Pêndulo amortecido,2,0.489,0.601,0.76
+EDO,SEIR,3,0.525,0.648,0.635
+EDO,Van der Pol,2,0.498,0.857,0.706
+EDO difícil,Decaimento com escala,3,0.508,0.632,0.622
+EDO difícil,Lorenz-96,2,1.0,0.995,0.986
+EDO difícil,Robertson,3,0.5,0.576,0.628
+EDP,Advecção–difusão,2,0.511,0.606,0.585
+EDP,Allen–Cahn,2,0.511,0.558,0.594
+EDP,Burgers viscoso,2,0.508,0.557,0.532
+EDP,Calor com fonte,2,0.497,0.542,0.539
+EDP,Fisher–KPP,2,0.506,0.585,0.532
+EDP,Onda amortecida,2,0.5,0.673,0.605
+EDP difícil,Allen–Cahn metaestável,3,0.503,0.607,0.548
+EDP difícil,Fisher–KPP (um instante),3,0.512,0.679,0.559

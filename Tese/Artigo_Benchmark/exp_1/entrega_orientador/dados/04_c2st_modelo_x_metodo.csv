@@ -1,0 +1,42 @@
+classe,rotulo,d,laplace,metropolis,ensemble,mala,hmc,npe,npe_pfn
+EDO,Brusselator,2,0.5,0.521,0.507,0.523,0.546,0.85,0.798
+EDO,FitzHugh–Nagumo,3,0.546,0.504,0.506,0.516,0.547,0.786,0.912
+EDO,Goodwin,4,0.623,0.508,0.507,0.532,0.552,0.706,
+EDO,Lorenz-63,3,0.539,0.52,0.501,0.508,0.537,0.738,0.679
+EDO,Lotka–Volterra,4,0.506,0.51,0.521,0.516,0.535,0.792,
+EDO,Oscilador forçado,3,0.5,0.508,0.506,0.524,0.55,0.76,0.692
+EDO,PK de dois compartimentos,4,0.544,0.494,0.516,0.52,0.538,0.561,
+EDO,Pêndulo amortecido,2,0.505,0.506,0.509,0.503,0.525,0.646,0.76
+EDO,Rosenzweig–MacArthur,5,0.595,0.495,0.508,0.571,0.564,0.969,
+EDO,SEIR,3,0.709,0.523,0.517,0.611,0.593,0.626,0.635
+EDO,Van der Pol,2,0.53,0.505,0.514,0.516,0.532,0.735,0.706
+EDO difícil,Cadeia de decaimento,3,0.936,0.871,0.873,0.927,0.903,0.843,
+EDO difícil,Decaimento com escala,3,0.512,0.499,0.568,0.655,0.573,0.599,0.622
+EDO difícil,Goodwin (Hill livre),5,0.866,0.507,0.57,0.744,0.639,0.882,
+EDO difícil,HIRES,4,0.589,0.502,0.539,0.611,0.621,0.958,
+EDO difícil,Lorenz-63 (janela longa),3,1.0,1.0,1.0,1.0,1.0,0.974,
+EDO difícil,Lorenz-96,2,1.0,1.0,1.0,1.0,1.0,0.996,0.986
+EDO difícil,PK com flip-flop,3,0.717,0.712,0.712,0.712,0.721,0.956,
+EDO difícil,Repressilador,4,0.681,0.499,0.587,0.647,0.668,0.614,
+EDO difícil,Robertson,3,0.484,0.5,0.483,0.498,0.535,0.597,0.628
+EDO difícil,SEIR (só o início),3,0.584,0.513,0.555,0.964,0.927,0.596,
+EDP,Advecção–difusão,2,0.506,0.503,0.506,0.505,0.53,0.624,0.585
+EDP,Allen–Cahn,2,0.507,0.508,0.5,0.495,0.558,0.528,0.594
+EDP,Burgers viscoso,2,0.497,0.506,0.496,0.517,0.539,0.594,0.532
+EDP,Calor com fonte,2,0.511,0.505,0.509,0.509,0.534,0.54,0.539
+EDP,Darcy (difusão estacionária),6,0.515,0.511,0.54,0.637,0.611,0.633,
+EDP,Fisher–KPP,2,0.506,0.504,0.522,0.507,0.538,0.605,0.532
+EDP,Onda amortecida,2,0.523,0.518,0.528,0.534,0.551,0.744,0.605
+EDP difícil,Allen–Cahn metaestável,3,0.542,0.498,0.509,0.52,0.54,0.605,0.548
+EDP difícil,Calor inverso,8,0.505,0.501,0.531,0.562,0.55,0.598,
+EDP difícil,Darcy (16 coeficientes),16,0.992,0.589,0.822,0.946,0.625,0.76,
+EDP difícil,Fisher–KPP (um instante),3,0.59,0.508,0.512,0.667,0.571,0.65,0.559
+EDP difícil,FitzHugh–Nagumo com difusão,4,0.82,0.507,0.528,0.564,0.549,0.653,
+PEtab,Bertozzi (PEtab),8,0.848,0.528,0.568,0.932,0.793,0.927,
+PEtab,Boehm (PEtab),9,0.892,0.513,0.537,0.593,0.509,0.956,
+PEtab,Crauste (PEtab),12,0.957,0.587,0.716,0.963,1.0,0.991,
+PEtab,Rahman (PEtab),9,0.871,0.719,0.855,1.0,1.0,0.71,
+PEtab grande,Bruno (PEtab),13,0.546,0.515,0.584,0.511,0.561,0.978,
+PEtab grande,Elowitz (PEtab),21,0.997,0.825,0.997,1.0,1.0,0.995,
+PEtab grande,Fujita (PEtab),19,0.896,0.586,0.969,0.999,0.99,0.999,
+PEtab grande,Sneyd (PEtab),15,0.941,0.684,0.965,1.0,0.998,0.992,

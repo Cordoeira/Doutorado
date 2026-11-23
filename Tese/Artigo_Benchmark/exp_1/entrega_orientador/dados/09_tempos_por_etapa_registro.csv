@@ -1,0 +1,526 @@
+problema,etapa,segundos,quando,classe
+Bertozzi_PNAS2020,map,4.59,1.795e+09,PEtab
+Bertozzi_PNAS2020,referencia,648.8,1.795e+09,PEtab
+Bertozzi_PNAS2020,identificabilidade,97.13,1.795e+09,PEtab
+Bertozzi_PNAS2020,solucoes,9.36,1.795e+09,PEtab
+Bertozzi_PNAS2020,laplace,11.37,1.795e+09,PEtab
+Bertozzi_PNAS2020,metropolis,246.1,1.795e+09,PEtab
+Bertozzi_PNAS2020,ensemble,306.5,1.795e+09,PEtab
+Bertozzi_PNAS2020,mala,341.1,1.795e+09,PEtab
+Bertozzi_PNAS2020,hmc,347.4,1.795e+09,PEtab
+Bertozzi_PNAS2020,npe,790.3,1.795e+09,PEtab
+Bertozzi_PNAS2020,map,0.01,1.795e+09,PEtab
+Bertozzi_PNAS2020,referencia,0.02,1.795e+09,PEtab
+Bertozzi_PNAS2020,identificabilidade,0.01,1.795e+09,PEtab
+Bertozzi_PNAS2020,solucoes,0,1.795e+09,PEtab
+Boehm_JProteomeRes2014,map,23.5,1.795e+09,PEtab
+Boehm_JProteomeRes2014,referencia,1048,1.795e+09,PEtab
+Boehm_JProteomeRes2014,identificabilidade,443.5,1.795e+09,PEtab
+Boehm_JProteomeRes2014,solucoes,18.47,1.795e+09,PEtab
+Boehm_JProteomeRes2014,laplace,13.19,1.795e+09,PEtab
+Boehm_JProteomeRes2014,metropolis,345.8,1.795e+09,PEtab
+Boehm_JProteomeRes2014,ensemble,489.5,1.795e+09,PEtab
+Boehm_JProteomeRes2014,mala,522.4,1.795e+09,PEtab
+Boehm_JProteomeRes2014,hmc,533.7,1.795e+09,PEtab
+Boehm_JProteomeRes2014,npe,495.6,1.795e+09,PEtab
+Boehm_JProteomeRes2014,map,0.01,1.795e+09,PEtab
+Boehm_JProteomeRes2014,referencia,0.02,1.795e+09,PEtab
+Boehm_JProteomeRes2014,identificabilidade,0.01,1.795e+09,PEtab
+Boehm_JProteomeRes2014,solucoes,0,1.795e+09,PEtab
+Bruno_JExpBot2016,map,4.91,1.795e+09,PEtab grande
+Bruno_JExpBot2016,referencia,8.652e+04,1.795e+09,PEtab grande
+Bruno_JExpBot2016,identificabilidade,485,1.795e+09,PEtab grande
+Bruno_JExpBot2016,solucoes,19.85,1.795e+09,PEtab grande
+Bruno_JExpBot2016,laplace,10.71,1.795e+09,PEtab grande
+Bruno_JExpBot2016,metropolis,700.9,1.795e+09,PEtab grande
+Bruno_JExpBot2016,ensemble,693.2,1.795e+09,PEtab grande
+Bruno_JExpBot2016,mala,634.1,1.795e+09,PEtab grande
+Bruno_JExpBot2016,hmc,618.1,1.795e+09,PEtab grande
+Bruno_JExpBot2016,npe,3.73e+04,1.795e+09,PEtab grande
+Bruno_JExpBot2016,map,0,1.795e+09,PEtab grande
+Bruno_JExpBot2016,referencia,0.01,1.795e+09,PEtab grande
+Bruno_JExpBot2016,identificabilidade,0.01,1.795e+09,PEtab grande
+Bruno_JExpBot2016,solucoes,0,1.795e+09,PEtab grande
+Crauste_CellSystems2017,map,71.37,1.795e+09,PEtab
+Crauste_CellSystems2017,referencia,1548,1.795e+09,PEtab
+Crauste_CellSystems2017,identificabilidade,1510,1.795e+09,PEtab
+Crauste_CellSystems2017,solucoes,81.94,1.795e+09,PEtab
+Crauste_CellSystems2017,laplace,12.05,1.795e+09,PEtab
+Crauste_CellSystems2017,metropolis,508.1,1.795e+09,PEtab
+Crauste_CellSystems2017,ensemble,1.058e+04,1.795e+09,PEtab
+Crauste_CellSystems2017,mala,478.3,1.795e+09,PEtab
+Crauste_CellSystems2017,hmc,458.1,1.795e+09,PEtab
+Crauste_CellSystems2017,npe,142.1,1.795e+09,PEtab
+Crauste_CellSystems2017,map,0.01,1.795e+09,PEtab
+Crauste_CellSystems2017,referencia,0.01,1.795e+09,PEtab
+Crauste_CellSystems2017,identificabilidade,0.01,1.795e+09,PEtab
+Crauste_CellSystems2017,solucoes,0,1.795e+09,PEtab
+Elowitz_Nature2000,map,46.28,1.795e+09,PEtab grande
+Elowitz_Nature2000,map,0.01,1.795e+09,PEtab grande
+Elowitz_Nature2000,referencia,4924,1.795e+09,PEtab grande
+Elowitz_Nature2000,solucoes,22.85,1.795e+09,PEtab grande
+Elowitz_Nature2000,laplace,7.28,1.795e+09,PEtab grande
+Elowitz_Nature2000,metropolis,297.1,1.795e+09,PEtab grande
+Elowitz_Nature2000,ensemble,542.7,1.795e+09,PEtab grande
+Elowitz_Nature2000,mala,663.9,1.795e+09,PEtab grande
+Elowitz_Nature2000,hmc,645.9,1.795e+09,PEtab grande
+Elowitz_Nature2000,npe,197.3,1.795e+09,PEtab grande
+Elowitz_Nature2000,map,0.01,1.795e+09,PEtab grande
+Elowitz_Nature2000,referencia,0.02,1.795e+09,PEtab grande
+Elowitz_Nature2000,map,0.01,1.795e+09,PEtab grande
+Elowitz_Nature2000,referencia,0.03,1.795e+09,PEtab grande
+Elowitz_Nature2000,identificabilidade,1.205e+04,1.795e+09,PEtab grande
+Elowitz_Nature2000,solucoes,0,1.795e+09,PEtab grande
+Fujita_SciSignal2010,map,63.57,1.795e+09,PEtab grande
+Fujita_SciSignal2010,referencia,8.809e+04,1.795e+09,PEtab grande
+Fujita_SciSignal2010,map,0.01,1.795e+09,PEtab grande
+Fujita_SciSignal2010,referencia,0.01,1.795e+09,PEtab grande
+Fujita_SciSignal2010,solucoes,46.79,1.795e+09,PEtab grande
+Fujita_SciSignal2010,laplace,10.97,1.795e+09,PEtab grande
+Fujita_SciSignal2010,metropolis,789.8,1.795e+09,PEtab grande
+Fujita_SciSignal2010,ensemble,1230,1.795e+09,PEtab grande
+Fujita_SciSignal2010,mala,973,1.795e+09,PEtab grande
+Fujita_SciSignal2010,hmc,1287,1.795e+09,PEtab grande
+Fujita_SciSignal2010,npe,250.8,1.795e+09,PEtab grande
+Fujita_SciSignal2010,map,0.03,1.795e+09,PEtab grande
+Fujita_SciSignal2010,referencia,0.02,1.795e+09,PEtab grande
+Rahman_MBS2016,map,13.52,1.795e+09,PEtab
+Rahman_MBS2016,referencia,1.562e+04,1.795e+09,PEtab
+Rahman_MBS2016,identificabilidade,125.1,1.795e+09,PEtab
+Rahman_MBS2016,solucoes,3.22,1.795e+09,PEtab
+Rahman_MBS2016,laplace,5.33,1.795e+09,PEtab
+Rahman_MBS2016,metropolis,92.07,1.795e+09,PEtab
+Rahman_MBS2016,ensemble,119.6,1.795e+09,PEtab
+Rahman_MBS2016,mala,150.1,1.795e+09,PEtab
+Rahman_MBS2016,hmc,147.9,1.795e+09,PEtab
+Rahman_MBS2016,npe,273.4,1.795e+09,PEtab
+Rahman_MBS2016,map,0.01,1.795e+09,PEtab
+Rahman_MBS2016,referencia,0.01,1.795e+09,PEtab
+Rahman_MBS2016,identificabilidade,0,1.795e+09,PEtab
+Rahman_MBS2016,solucoes,0,1.795e+09,PEtab
+Sneyd_PNAS2002,map,56.19,1.795e+09,PEtab grande
+Sneyd_PNAS2002,map,0.01,1.795e+09,PEtab grande
+Sneyd_PNAS2002,referencia,1.543e+04,1.795e+09,PEtab grande
+Sneyd_PNAS2002,solucoes,36.8,1.795e+09,PEtab grande
+Sneyd_PNAS2002,laplace,5.67,1.795e+09,PEtab grande
+Sneyd_PNAS2002,metropolis,580.2,1.795e+09,PEtab grande
+Sneyd_PNAS2002,ensemble,905.7,1.795e+09,PEtab grande
+Sneyd_PNAS2002,mala,1126,1.795e+09,PEtab grande
+Sneyd_PNAS2002,hmc,912.1,1.795e+09,PEtab grande
+Sneyd_PNAS2002,npe,126.1,1.795e+09,PEtab grande
+Sneyd_PNAS2002,map,0.01,1.795e+09,PEtab grande
+Sneyd_PNAS2002,referencia,0.02,1.795e+09,PEtab grande
+Sneyd_PNAS2002,map,0.01,1.795e+09,PEtab grande
+Sneyd_PNAS2002,referencia,0.06,1.795e+09,PEtab grande
+Sneyd_PNAS2002,identificabilidade,5865,1.795e+09,PEtab grande
+Sneyd_PNAS2002,solucoes,0,1.795e+09,PEtab grande
+adveccao_difusao,map,0.08,1.795e+09,EDP
+adveccao_difusao,referencia,52.48,1.795e+09,EDP
+adveccao_difusao,identificabilidade,0.6,1.795e+09,EDP
+adveccao_difusao,solucoes,0.15,1.795e+09,EDP
+adveccao_difusao,laplace,9.6,1.795e+09,EDP
+adveccao_difusao,metropolis,32.95,1.795e+09,EDP
+adveccao_difusao,ensemble,23.08,1.795e+09,EDP
+adveccao_difusao,mala,27.62,1.795e+09,EDP
+adveccao_difusao,hmc,37.21,1.795e+09,EDP
+adveccao_difusao,npe,1.012e+04,1.795e+09,EDP
+adveccao_difusao,map,0.01,1.795e+09,EDP
+adveccao_difusao,referencia,0.01,1.795e+09,EDP
+adveccao_difusao,solucoes,0,1.795e+09,EDP
+adveccao_difusao,npe_pfn,4320,1.795e+09,EDP
+allen_cahn,map,0.12,1.795e+09,EDP
+allen_cahn,referencia,84.16,1.795e+09,EDP
+allen_cahn,identificabilidade,2.36,1.795e+09,EDP
+allen_cahn,solucoes,0.29,1.795e+09,EDP
+allen_cahn,laplace,19.25,1.795e+09,EDP
+allen_cahn,metropolis,62.63,1.795e+09,EDP
+allen_cahn,ensemble,42.53,1.795e+09,EDP
+allen_cahn,mala,53.31,1.795e+09,EDP
+allen_cahn,hmc,45.86,1.795e+09,EDP
+allen_cahn,npe,368.5,1.795e+09,EDP
+allen_cahn,map,0,1.795e+09,EDP
+allen_cahn,referencia,0.01,1.795e+09,EDP
+allen_cahn,solucoes,0,1.795e+09,EDP
+allen_cahn,npe_pfn,4004,1.795e+09,EDP
+allen_cahn_meta,map,0.24,1.795e+09,EDP difícil
+allen_cahn_meta,referencia,66.06,1.795e+09,EDP difícil
+allen_cahn_meta,identificabilidade,2.43,1.795e+09,EDP difícil
+allen_cahn_meta,solucoes,0.88,1.795e+09,EDP difícil
+allen_cahn_meta,laplace,9.01,1.795e+09,EDP difícil
+allen_cahn_meta,metropolis,34.77,1.795e+09,EDP difícil
+allen_cahn_meta,ensemble,43.75,1.795e+09,EDP difícil
+allen_cahn_meta,mala,48.64,1.795e+09,EDP difícil
+allen_cahn_meta,hmc,44.46,1.795e+09,EDP difícil
+allen_cahn_meta,npe,275.4,1.795e+09,EDP difícil
+allen_cahn_meta,map,0.01,1.795e+09,EDP difícil
+allen_cahn_meta,referencia,0.01,1.795e+09,EDP difícil
+allen_cahn_meta,solucoes,0,1.795e+09,EDP difícil
+allen_cahn_meta,npe_pfn,4430,1.795e+09,EDP difícil
+brusselator,map,0.15,1.795e+09,EDO
+brusselator,referencia,226,1.795e+09,EDO
+brusselator,identificabilidade,2.62,1.795e+09,EDO
+brusselator,solucoes,1,1.795e+09,EDO
+brusselator,laplace,10.48,1.795e+09,EDO
+brusselator,metropolis,82.02,1.795e+09,EDO
+brusselator,ensemble,69.59,1.795e+09,EDO
+brusselator,mala,75.03,1.795e+09,EDO
+brusselator,hmc,66.83,1.795e+09,EDO
+brusselator,npe,1.034e+04,1.795e+09,EDO
+brusselator,map,0.01,1.795e+09,EDO
+brusselator,referencia,0.01,1.795e+09,EDO
+brusselator,solucoes,0,1.795e+09,EDO
+brusselator,npe_pfn,6664,1.795e+09,EDO
+burgers,map,0.21,1.795e+09,EDP
+burgers,referencia,217.1,1.795e+09,EDP
+burgers,identificabilidade,3.31,1.795e+09,EDP
+burgers,solucoes,1.17,1.795e+09,EDP
+burgers,laplace,18.31,1.795e+09,EDP
+burgers,metropolis,108.9,1.795e+09,EDP
+burgers,ensemble,91.69,1.795e+09,EDP
+burgers,mala,101.7,1.795e+09,EDP
+burgers,hmc,92.47,1.795e+09,EDP
+burgers,npe,9536,1.795e+09,EDP
+burgers,map,0.01,1.795e+09,EDP
+burgers,referencia,0.01,1.795e+09,EDP
+burgers,solucoes,0,1.795e+09,EDP
+burgers,npe_pfn,4791,1.795e+09,EDP
+cadeia_simetrica,map,0.47,1.795e+09,EDO difícil
+cadeia_simetrica,referencia,370.6,1.795e+09,EDO difícil
+cadeia_simetrica,identificabilidade,5.73,1.795e+09,EDO difícil
+cadeia_simetrica,solucoes,0.3,1.795e+09,EDO difícil
+cadeia_simetrica,laplace,8.05,1.795e+09,EDO difícil
+cadeia_simetrica,metropolis,38.8,1.795e+09,EDO difícil
+cadeia_simetrica,ensemble,27.69,1.795e+09,EDO difícil
+cadeia_simetrica,mala,32.91,1.795e+09,EDO difícil
+cadeia_simetrica,hmc,26.72,1.795e+09,EDO difícil
+cadeia_simetrica,npe,647.3,1.795e+09,EDO difícil
+calor,map,0.13,1.795e+09,EDP
+calor,referencia,134.3,1.795e+09,EDP
+calor,identificabilidade,1.47,1.795e+09,EDP
+calor,solucoes,0.41,1.795e+09,EDP
+calor,laplace,9.9,1.795e+09,EDP
+calor,metropolis,68.49,1.795e+09,EDP
+calor,ensemble,81.35,1.795e+09,EDP
+calor,mala,104.1,1.795e+09,EDP
+calor,hmc,91.67,1.795e+09,EDP
+calor,npe,9843,1.795e+09,EDP
+calor,map,0.01,1.795e+09,EDP
+calor,referencia,0.01,1.795e+09,EDP
+calor,solucoes,0,1.795e+09,EDP
+calor,npe_pfn,4344,1.795e+09,EDP
+calor_inverso,map,0.33,1.795e+09,EDP difícil
+calor_inverso,referencia,102.7,1.795e+09,EDP difícil
+calor_inverso,identificabilidade,12.45,1.795e+09,EDP difícil
+calor_inverso,solucoes,0.91,1.795e+09,EDP difícil
+calor_inverso,laplace,12.09,1.795e+09,EDP difícil
+calor_inverso,metropolis,51.19,1.795e+09,EDP difícil
+calor_inverso,ensemble,40.58,1.795e+09,EDP difícil
+calor_inverso,mala,49.96,1.795e+09,EDP difícil
+calor_inverso,hmc,46.48,1.795e+09,EDP difícil
+calor_inverso,npe,583.9,1.795e+09,EDP difícil
+darcy,map,0.25,1.795e+09,EDP
+darcy,referencia,56.72,1.795e+09,EDP
+darcy,identificabilidade,7.99,1.795e+09,EDP
+darcy,solucoes,0.19,1.795e+09,EDP
+darcy,laplace,23.14,1.795e+09,EDP
+darcy,metropolis,54.72,1.795e+09,EDP
+darcy,ensemble,32.03,1.795e+09,EDP
+darcy,mala,9271,1.795e+09,EDP
+darcy,hmc,29.86,1.795e+09,EDP
+darcy,npe,566.5,1.795e+09,EDP
+darcy16,map,0.84,1.795e+09,EDP difícil
+darcy16,referencia,28.18,1.795e+09,EDP difícil
+darcy16,identificabilidade,395,1.795e+09,EDP difícil
+darcy16,solucoes,0.22,1.795e+09,EDP difícil
+darcy16,laplace,15.04,1.795e+09,EDP difícil
+darcy16,metropolis,31.1,1.795e+09,EDP difícil
+darcy16,ensemble,22.87,1.795e+09,EDP difícil
+darcy16,mala,19.06,1.795e+09,EDP difícil
+darcy16,hmc,12.67,1.795e+09,EDP difícil
+darcy16,npe,913.9,1.795e+09,EDP difícil
+fhn_difusao,map,1.74,1.795e+09,EDP difícil
+fhn_difusao,referencia,479.5,1.795e+09,EDP difícil
+fhn_difusao,identificabilidade,58.14,1.795e+09,EDP difícil
+fhn_difusao,solucoes,8.07,1.795e+09,EDP difícil
+fhn_difusao,laplace,9.55,1.795e+09,EDP difícil
+fhn_difusao,metropolis,171.9,1.795e+09,EDP difícil
+fhn_difusao,ensemble,279.6,1.795e+09,EDP difícil
+fhn_difusao,mala,293.1,1.795e+09,EDP difícil
+fhn_difusao,hmc,271,1.795e+09,EDP difícil
+fhn_difusao,npe,495.9,1.795e+09,EDP difícil
+fisher_frente,map,0.23,1.795e+09,EDP difícil
+fisher_frente,referencia,39.78,1.795e+09,EDP difícil
+fisher_frente,identificabilidade,2.35,1.795e+09,EDP difícil
+fisher_frente,solucoes,0.44,1.795e+09,EDP difícil
+fisher_frente,laplace,8.14,1.795e+09,EDP difícil
+fisher_frente,metropolis,29.4,1.795e+09,EDP difícil
+fisher_frente,ensemble,23.85,1.795e+09,EDP difícil
+fisher_frente,mala,29.09,1.795e+09,EDP difícil
+fisher_frente,hmc,22.89,1.795e+09,EDP difícil
+fisher_frente,npe,463.9,1.795e+09,EDP difícil
+fisher_frente,map,0.01,1.795e+09,EDP difícil
+fisher_frente,referencia,0.03,1.795e+09,EDP difícil
+fisher_frente,solucoes,0.01,1.795e+09,EDP difícil
+fisher_frente,npe_pfn,2603,1.795e+09,EDP difícil
+fisher_kpp,map,0.12,1.795e+09,EDP
+fisher_kpp,referencia,55.93,1.795e+09,EDP
+fisher_kpp,identificabilidade,1.31,1.795e+09,EDP
+fisher_kpp,solucoes,0.31,1.795e+09,EDP
+fisher_kpp,laplace,10.08,1.795e+09,EDP
+fisher_kpp,metropolis,36.83,1.795e+09,EDP
+fisher_kpp,ensemble,28.47,1.795e+09,EDP
+fisher_kpp,mala,46.53,1.795e+09,EDP
+fisher_kpp,hmc,52.8,1.795e+09,EDP
+fisher_kpp,npe,351.1,1.795e+09,EDP
+fisher_kpp,map,0.01,1.795e+09,EDP
+fisher_kpp,referencia,0.01,1.795e+09,EDP
+fisher_kpp,solucoes,0,1.795e+09,EDP
+fisher_kpp,npe_pfn,5393,1.795e+09,EDP
+fitzhugh_nagumo,map,0.25,1.795e+09,EDO
+fitzhugh_nagumo,referencia,156.3,1.795e+09,EDO
+fitzhugh_nagumo,identificabilidade,3.83,1.795e+09,EDO
+fitzhugh_nagumo,solucoes,1.07,1.795e+09,EDO
+fitzhugh_nagumo,laplace,9.3,1.795e+09,EDO
+fitzhugh_nagumo,metropolis,63.44,1.795e+09,EDO
+fitzhugh_nagumo,ensemble,50.86,1.795e+09,EDO
+fitzhugh_nagumo,mala,56.5,1.795e+09,EDO
+fitzhugh_nagumo,hmc,50.68,1.795e+09,EDO
+fitzhugh_nagumo,npe,440.2,1.795e+09,EDO
+fitzhugh_nagumo,map,0.01,1.795e+09,EDO
+fitzhugh_nagumo,referencia,0.03,1.795e+09,EDO
+fitzhugh_nagumo,solucoes,0.01,1.795e+09,EDO
+fitzhugh_nagumo,npe_pfn,1.2e+04,1.795e+09,EDO
+goodwin,map,0.21,1.795e+09,EDO
+goodwin,referencia,85.88,1.795e+09,EDO
+goodwin,identificabilidade,4.41,1.795e+09,EDO
+goodwin,solucoes,0.56,1.795e+09,EDO
+goodwin,laplace,11.36,1.795e+09,EDO
+goodwin,metropolis,46.31,1.795e+09,EDO
+goodwin,ensemble,33.95,1.795e+09,EDO
+goodwin,mala,38.63,1.795e+09,EDO
+goodwin,hmc,31.27,1.795e+09,EDO
+goodwin,npe,529.8,1.795e+09,EDO
+goodwin_hill,map,1.15,1.795e+09,EDO difícil
+goodwin_hill,referencia,295.4,1.795e+09,EDO difícil
+goodwin_hill,identificabilidade,24.4,1.795e+09,EDO difícil
+goodwin_hill,solucoes,3.1,1.795e+09,EDO difícil
+goodwin_hill,laplace,9.12,1.795e+09,EDO difícil
+goodwin_hill,metropolis,99.05,1.795e+09,EDO difícil
+goodwin_hill,ensemble,80.65,1.795e+09,EDO difícil
+goodwin_hill,mala,84.63,1.795e+09,EDO difícil
+goodwin_hill,hmc,76.45,1.795e+09,EDO difícil
+goodwin_hill,npe,1008,1.795e+09,EDO difícil
+hires,map,0.54,1.795e+09,EDO difícil
+hires,referencia,242.3,1.795e+09,EDO difícil
+hires,identificabilidade,17.84,1.795e+09,EDO difícil
+hires,solucoes,3.3,1.795e+09,EDO difícil
+hires,laplace,13.21,1.795e+09,EDO difícil
+hires,metropolis,93.27,1.795e+09,EDO difícil
+hires,ensemble,109.3,1.795e+09,EDO difícil
+hires,mala,117.7,1.795e+09,EDO difícil
+hires,hmc,112.8,1.795e+09,EDO difícil
+hires,npe,148.4,1.795e+09,EDO difícil
+hires,map,0.01,1.795e+09,EDO difícil
+hires,referencia,0.01,1.795e+09,EDO difícil
+hires,identificabilidade,1.57,1.795e+09,EDO difícil
+hires,solucoes,0,1.795e+09,EDO difícil
+lorenz63,map,0.17,1.795e+09,EDO
+lorenz63,referencia,54.54,1.795e+09,EDO
+lorenz63,identificabilidade,2.02,1.795e+09,EDO
+lorenz63,solucoes,0.34,1.795e+09,EDO
+lorenz63,laplace,10.33,1.795e+09,EDO
+lorenz63,metropolis,37.84,1.795e+09,EDO
+lorenz63,ensemble,24.3,1.795e+09,EDO
+lorenz63,mala,28.67,1.795e+09,EDO
+lorenz63,hmc,22.99,1.795e+09,EDO
+lorenz63,npe,374.3,1.795e+09,EDO
+lorenz63,map,0.01,1.795e+09,EDO
+lorenz63,referencia,0.02,1.795e+09,EDO
+lorenz63,solucoes,0,1.795e+09,EDO
+lorenz63,npe_pfn,8073,1.795e+09,EDO
+lorenz63_longo,map,0.58,1.795e+09,EDO difícil
+lorenz63_longo,referencia,321.2,1.795e+09,EDO difícil
+lorenz63_longo,identificabilidade,6.26,1.795e+09,EDO difícil
+lorenz63_longo,solucoes,1.1,1.795e+09,EDO difícil
+lorenz63_longo,laplace,5.6,1.795e+09,EDO difícil
+lorenz63_longo,metropolis,51.5,1.795e+09,EDO difícil
+lorenz63_longo,ensemble,41.14,1.795e+09,EDO difícil
+lorenz63_longo,mala,46.76,1.795e+09,EDO difícil
+lorenz63_longo,hmc,41.81,1.795e+09,EDO difícil
+lorenz63_longo,npe,160.1,1.795e+09,EDO difícil
+lorenz96,map,0.55,1.795e+09,EDO difícil
+lorenz96,referencia,74.67,1.795e+09,EDO difícil
+lorenz96,identificabilidade,2.58,1.795e+09,EDO difícil
+lorenz96,solucoes,0.22,1.795e+09,EDO difícil
+lorenz96,laplace,5.72,1.795e+09,EDO difícil
+lorenz96,metropolis,30.98,1.795e+09,EDO difícil
+lorenz96,ensemble,23.23,1.795e+09,EDO difícil
+lorenz96,mala,28.64,1.795e+09,EDO difícil
+lorenz96,hmc,25.32,1.795e+09,EDO difícil
+lorenz96,npe,214.9,1.795e+09,EDO difícil
+lorenz96,map,0.01,1.795e+09,EDO difícil
+lorenz96,referencia,0.01,1.795e+09,EDO difícil
+lorenz96,solucoes,0.01,1.795e+09,EDO difícil
+lorenz96,npe_pfn,7260,1.795e+09,EDO difícil
+lotka_volterra,map,0.14,1.795e+09,EDO
+lotka_volterra,referencia,67.94,1.795e+09,EDO
+lotka_volterra,identificabilidade,2.3,1.795e+09,EDO
+lotka_volterra,solucoes,0.42,1.795e+09,EDO
+lotka_volterra,laplace,14.44,1.795e+09,EDO
+lotka_volterra,metropolis,41.64,1.795e+09,EDO
+lotka_volterra,ensemble,26.34,1.795e+09,EDO
+lotka_volterra,mala,29.63,1.795e+09,EDO
+lotka_volterra,hmc,22.86,1.795e+09,EDO
+lotka_volterra,npe,973.4,1.795e+09,EDO
+onda,map,0.4,1.795e+09,EDP
+onda,referencia,181.6,1.795e+09,EDP
+onda,identificabilidade,2.44,1.795e+09,EDP
+onda,solucoes,0.81,1.795e+09,EDP
+onda,laplace,18.09,1.795e+09,EDP
+onda,metropolis,97.92,1.795e+09,EDP
+onda,ensemble,9280,1.795e+09,EDP
+onda,mala,103.8,1.795e+09,EDP
+onda,hmc,52.07,1.795e+09,EDP
+onda,npe,337.9,1.795e+09,EDP
+onda,map,0.01,1.795e+09,EDP
+onda,referencia,0.01,1.795e+09,EDP
+onda,solucoes,0,1.795e+09,EDP
+onda,npe_pfn,3666,1.795e+09,EDP
+oscilador,map,0.23,1.795e+09,EDO
+oscilador,referencia,170.4,1.795e+09,EDO
+oscilador,identificabilidade,3.74,1.795e+09,EDO
+oscilador,solucoes,1.78,1.795e+09,EDO
+oscilador,laplace,9.39,1.795e+09,EDO
+oscilador,metropolis,69.34,1.795e+09,EDO
+oscilador,ensemble,54.65,1.795e+09,EDO
+oscilador,mala,59.44,1.795e+09,EDO
+oscilador,hmc,53.92,1.795e+09,EDO
+oscilador,npe,705.2,1.795e+09,EDO
+oscilador,map,0,1.795e+09,EDO
+oscilador,referencia,0.03,1.795e+09,EDO
+oscilador,solucoes,0,1.795e+09,EDO
+oscilador,npe_pfn,5611,1.795e+09,EDO
+pendulo,map,0.17,1.795e+09,EDO
+pendulo,referencia,138.6,1.795e+09,EDO
+pendulo,identificabilidade,1.56,1.795e+09,EDO
+pendulo,solucoes,0.58,1.795e+09,EDO
+pendulo,laplace,8.68,1.795e+09,EDO
+pendulo,metropolis,55.32,1.795e+09,EDO
+pendulo,ensemble,47.43,1.795e+09,EDO
+pendulo,mala,53.62,1.795e+09,EDO
+pendulo,hmc,47.23,1.795e+09,EDO
+pendulo,npe,990.3,1.795e+09,EDO
+pendulo,map,0.01,1.795e+09,EDO
+pendulo,referencia,0.01,1.795e+09,EDO
+pendulo,solucoes,0,1.795e+09,EDO
+pendulo,npe_pfn,3472,1.795e+09,EDO
+pk2,map,0.12,1.795e+09,EDO
+pk2,referencia,68.02,1.795e+09,EDO
+pk2,identificabilidade,3.3,1.795e+09,EDO
+pk2,solucoes,0.6,1.795e+09,EDO
+pk2,laplace,12.09,1.795e+09,EDO
+pk2,metropolis,41.9,1.795e+09,EDO
+pk2,ensemble,27.51,1.795e+09,EDO
+pk2,mala,33.26,1.795e+09,EDO
+pk2,hmc,24.98,1.795e+09,EDO
+pk2,npe,468.4,1.795e+09,EDO
+pk_flipflop,map,0.53,1.795e+09,EDO difícil
+pk_flipflop,referencia,1620,1.795e+09,EDO difícil
+pk_flipflop,identificabilidade,6.16,1.795e+09,EDO difícil
+pk_flipflop,solucoes,1.29,1.795e+09,EDO difícil
+pk_flipflop,laplace,9.41,1.795e+09,EDO difícil
+pk_flipflop,metropolis,73.62,1.795e+09,EDO difícil
+pk_flipflop,ensemble,55.75,1.795e+09,EDO difícil
+pk_flipflop,mala,62.19,1.795e+09,EDO difícil
+pk_flipflop,hmc,55.61,1.795e+09,EDO difícil
+pk_flipflop,npe,672.5,1.795e+09,EDO difícil
+produto,map,0.05,1.795e+09,EDO difícil
+produto,referencia,36.17,1.795e+09,EDO difícil
+produto,identificabilidade,2.12,1.795e+09,EDO difícil
+produto,solucoes,0.13,1.795e+09,EDO difícil
+produto,laplace,8.8,1.795e+09,EDO difícil
+produto,metropolis,28.95,1.795e+09,EDO difícil
+produto,ensemble,17.13,1.795e+09,EDO difícil
+produto,mala,21.31,1.795e+09,EDO difícil
+produto,hmc,19.06,1.795e+09,EDO difícil
+produto,npe,425.7,1.795e+09,EDO difícil
+produto,map,0.01,1.795e+09,EDO difícil
+produto,referencia,0.02,1.795e+09,EDO difícil
+produto,solucoes,0,1.795e+09,EDO difícil
+produto,npe_pfn,4075,1.795e+09,EDO difícil
+repressilator,map,1.25,1.795e+09,EDO difícil
+repressilator,referencia,417.9,1.795e+09,EDO difícil
+repressilator,identificabilidade,30.67,1.795e+09,EDO difícil
+repressilator,solucoes,6.16,1.795e+09,EDO difícil
+repressilator,laplace,11.76,1.795e+09,EDO difícil
+repressilator,metropolis,163,1.795e+09,EDO difícil
+repressilator,ensemble,150.9,1.795e+09,EDO difícil
+repressilator,mala,159.7,1.795e+09,EDO difícil
+repressilator,hmc,153.2,1.795e+09,EDO difícil
+repressilator,npe,843.8,1.795e+09,EDO difícil
+robertson,map,0.32,1.795e+09,EDO difícil
+robertson,referencia,217.3,1.795e+09,EDO difícil
+robertson,identificabilidade,4.56,1.795e+09,EDO difícil
+robertson,solucoes,1.63,1.795e+09,EDO difícil
+robertson,laplace,10.62,1.795e+09,EDO difícil
+robertson,metropolis,83.05,1.795e+09,EDO difícil
+robertson,ensemble,65.76,1.795e+09,EDO difícil
+robertson,mala,69.68,1.795e+09,EDO difícil
+robertson,hmc,65.31,1.795e+09,EDO difícil
+robertson,npe,550,1.795e+09,EDO difícil
+robertson,map,0.01,1.795e+09,EDO difícil
+robertson,referencia,0.01,1.795e+09,EDO difícil
+robertson,identificabilidade,1.58,1.795e+09,EDO difícil
+robertson,solucoes,0,1.795e+09,EDO difícil
+robertson,map,0.02,1.795e+09,EDO difícil
+robertson,referencia,0.02,1.795e+09,EDO difícil
+robertson,solucoes,0,1.795e+09,EDO difícil
+robertson,npe_pfn,1.155e+04,1.795e+09,EDO difícil
+rosenzweig_macarthur,map,0.4,1.795e+09,EDO
+rosenzweig_macarthur,referencia,162.5,1.795e+09,EDO
+rosenzweig_macarthur,identificabilidade,8.64,1.795e+09,EDO
+rosenzweig_macarthur,solucoes,1.52,1.795e+09,EDO
+rosenzweig_macarthur,laplace,13.41,1.795e+09,EDO
+rosenzweig_macarthur,metropolis,70.74,1.795e+09,EDO
+rosenzweig_macarthur,ensemble,50.37,1.795e+09,EDO
+rosenzweig_macarthur,mala,55.4,1.795e+09,EDO
+rosenzweig_macarthur,hmc,46.31,1.795e+09,EDO
+rosenzweig_macarthur,npe,1.06e+04,1.795e+09,EDO
+seir,map,0.13,1.795e+09,EDO
+seir,referencia,60.38,1.795e+09,EDO
+seir,identificabilidade,2.05,1.795e+09,EDO
+seir,solucoes,0.16,1.795e+09,EDO
+seir,laplace,8.85,1.795e+09,EDO
+seir,metropolis,33.02,1.795e+09,EDO
+seir,ensemble,22.7,1.795e+09,EDO
+seir,mala,25.82,1.795e+09,EDO
+seir,hmc,21.92,1.795e+09,EDO
+seir,npe,571.4,1.795e+09,EDO
+seir,map,0,1.795e+09,EDO
+seir,referencia,0.02,1.795e+09,EDO
+seir,solucoes,0,1.795e+09,EDO
+seir,npe_pfn,6404,1.795e+09,EDO
+seir_inicio,map,0.13,1.795e+09,EDO difícil
+seir_inicio,referencia,31.28,1.795e+09,EDO difícil
+seir_inicio,identificabilidade,2.24,1.795e+09,EDO difícil
+seir_inicio,solucoes,0.13,1.795e+09,EDO difícil
+seir_inicio,laplace,8.88,1.795e+09,EDO difícil
+seir_inicio,metropolis,26.78,1.795e+09,EDO difícil
+seir_inicio,ensemble,15.52,1.795e+09,EDO difícil
+seir_inicio,mala,18.7,1.795e+09,EDO difícil
+seir_inicio,hmc,13.68,1.795e+09,EDO difícil
+seir_inicio,npe,166.9,1.795e+09,EDO difícil
+van_der_pol,map,0.3,1.795e+09,EDO
+van_der_pol,referencia,103.8,1.795e+09,EDO
+van_der_pol,identificabilidade,1.71,1.795e+09,EDO
+van_der_pol,solucoes,0.49,1.795e+09,EDO
+van_der_pol,laplace,10.72,1.795e+09,EDO
+van_der_pol,metropolis,50.56,1.795e+09,EDO
+van_der_pol,ensemble,38.02,1.795e+09,EDO
+van_der_pol,mala,43.36,1.795e+09,EDO
+van_der_pol,hmc,38.62,1.795e+09,EDO
+van_der_pol,npe,601.3,1.795e+09,EDO
+van_der_pol,map,0,1.795e+09,EDO
+van_der_pol,referencia,0.03,1.795e+09,EDO
+van_der_pol,solucoes,0,1.795e+09,EDO
+van_der_pol,npe_pfn,3765,1.795e+09,EDO

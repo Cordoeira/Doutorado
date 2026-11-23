@@ -1,0 +1,41 @@
+problema,rotulo,classe,d,ref_ok,identificaveis,parciais,nao_identificaveis,estruturais,multimodais,n_saidas,posto_no_otimo,posto_generico,nucleo_invariante,combinacoes_identificaveis,combinacoes_livres,dim_fisher_map,dim_h_normal,dim_h_caixa,dim_h_livre_normal,dim_h_livre_caixa,predicao_razao_posterior,predicao_razao_completa,map_melhorado,falhas_perto_do_otimo,esd
+Bertozzi_PNAS2020,Bertozzi (PEtab),PEtab,8,True,3,1,4,2,0,88,7,7,0,,,6,8,8,8,8,1.37077,1.03339,,0,37172.1
+Boehm_JProteomeRes2014,Boehm (PEtab),PEtab,9,True,7,0,2,1,0,96,8,8,1,sd_pSTAT5A_rel; sd_rSTAT5A_rel; k_imp_hetero; k_phos; k_exp_homo; sd_pSTAT5B_rel; Epo_degradation_BaF3; k_exp_hetero,k_imp_homo,6,7,8,7,8,1.80471,1.21535,,0,138230
+Bruno_JExpBot2016,Bruno (PEtab),PEtab grande,13,True,13,0,0,0,0,504,13,13,0,,,13,13,13,13,13,2.02034,1.40839,,0,65474.7
+Crauste_CellSystems2017,Crauste (PEtab),PEtab,12,True,4,1,7,3,1,64,5,9,3,mu_N; rho_P; mu_LL; rho_E; delta_NE; mu_EE; mu_PL; delta_EL; delta_LM,mu_LE; mu_PE; mu_P,8,9,9,9,9,1.80744,1.25578,,20,310622
+Elowitz_Nature2000,Elowitz (PEtab),PEtab grande,21,False,1,4,16,16,0,116,14,14,6,n_Hill; sigma; tau_mRNA; tau_prot; tau_prot_GFP; background; init_Z_mRNA / (eff_GFP·init_GFP_mRNA); tps_active / (eff_GFP·init_GFP_mRNA); init_X_mRNA / (eff_GFP·init_GFP_mRNA); init_X_protein / KM; tps_repr / (eff_GFP·init_GFP_mRNA); init_Z_protein / KM; eff_GFP·init_GFP_mRNA·scale; init_Y_mRNA / (eff_GFP·init_GFP_mRNA); eff·eff_GFP·init_GFP_mRNA / KM,tau_mRNA_GFP; init_GFP; init_Y_protein; KM·eff·init_X_protein·init_Z_protein; KM·eff_GFP·init_X_mRNA·init_X_protein·init_Y_mRNA·init_Z_mRNA·init_Z_protein·tps_active·tps_repr / scale; KM·init_GFP_mRNA·init_X_mRNA·init_X_protein·init_Y_mRNA·init_Z_mRNA·init_Z_protein·tps_active·tps_repr / scale,10,17,14,17,15,5.67119,2.61043,,0,1.14388e+06
+Rahman_MBS2016,Rahman (PEtab),PEtab,9,True,0,1,8,3,0,46,5,6,3,≈ log infected_normal_transmission_rate_relative; ≈ log infected_normal_worsen_rate; ≈ log infected_moderate_worsen_rate; ≈ log infected_weak_transmission_rate_relative; ≈ log infected_moderate_transmission_rate; ≈ log behavioural_change_rate,≈ log infected_weak_treatment_rate; ≈ log treated_weak_improve_rate; ≈ log treated_moderate_improve_rate,3,6,6,6,6,1.74882,1.10617,,0,126715
+Sneyd_PNAS2002,Sneyd (PEtab),PEtab grande,15,True,3,6,6,7,0,270,10,11,4,l4; k_1; sigma; l2; k_3; l_2; k_4; k3; k4; k1; l_4 / k_2,k2; l_6; l6; k_2·l_4,9,12,11,11,11,1.53695,1.08717,,0,465150
+adveccao_difusao,Advecção–difusão,EDP,2,True,2,0,0,0,0,40,2,2,0,,,2,2,2,2,2,1.1845,0.949528,,0,4857
+allen_cahn,Allen–Cahn,EDP,2,True,2,0,0,0,0,40,2,2,0,,,2,2,2,2,2,1.226,1.06433,,0,5421
+allen_cahn_meta,Allen–Cahn metaestável,EDP difícil,3,True,0,0,3,0,0,16,1,3,2,r / kappa,A; kappa·r,1,2,2,3,3,1.69336,0.791468,,0,7599
+brusselator,Brusselator,EDO,2,True,2,0,0,0,0,60,2,2,0,,,2,2,2,2,2,1.20156,0.957626,,0,5608
+burgers,Burgers viscoso,EDP,2,True,2,0,0,0,0,40,2,2,0,,,2,2,2,2,2,1.23176,1.0522,,0,5374
+cadeia_simetrica,Cadeia de decaimento,EDO difícil,3,True,0,3,0,0,3,25,3,3,0,,,2,3,3,3,3,1.08123,1.01888,,0,17682
+calor,Calor com fonte,EDP,2,True,2,0,0,0,0,40,2,2,0,,,2,2,2,2,2,1.23514,1.00841,,0,4951
+calor_inverso,Calor inverso,EDP difícil,8,True,5,1,2,0,0,16,8,8,0,,,6,6,7,7,8,1.30309,0.904204,,0,39652
+darcy,Darcy (difusão estacionária),EDP,6,True,1,4,1,0,0,15,6,6,0,,,6,6,6,6,6,0.994595,0.739472,,0,40696
+darcy16,Darcy (16 coeficientes),EDP difícil,16,True,0,1,15,16,0,7,7,7,0,,,6,12,15,12,16,1.37874,0.909194,,0,3.59255e+06
+fhn_difusao,FitzHugh–Nagumo com difusão,EDP difícil,4,True,0,1,3,0,0,12,4,4,0,,,3,4,4,4,4,1.14415,0.856379,,0,27666
+fisher_frente,Fisher–KPP (um instante),EDP difícil,3,True,0,0,3,0,0,8,2,3,0,,,1,3,3,3,3,1.98542,1.16853,,0,13817
+fisher_kpp,Fisher–KPP,EDP,2,True,2,0,0,0,0,40,2,2,0,,,2,2,2,2,2,1.3596,1.0042,,0,6378
+fitzhugh_nagumo,FitzHugh–Nagumo,EDO,3,True,3,0,0,0,0,80,3,3,0,,,3,3,3,3,3,1.27754,0.939774,,0,9902
+goodwin,Goodwin,EDO,4,True,4,0,0,0,0,60,4,4,0,,,4,4,4,4,4,1.22274,0.935977,,0,18003
+goodwin_hill,Goodwin (Hill livre),EDO difícil,5,True,5,0,0,0,0,14,5,5,0,,,4,5,5,5,5,1.59567,1.18165,,0,38616
+hires,HIRES,EDO difícil,4,True,0,3,1,0,0,80,4,4,0,,,3,4,4,4,4,1.4041,1.15856,,0,20450
+lorenz63,Lorenz-63,EDO,3,True,3,0,0,0,0,45,3,3,0,,,3,3,3,3,3,1.09312,0.864206,,0,10865
+lorenz63_longo,Lorenz-63 (janela longa),EDO difícil,3,True,3,0,0,0,0,120,3,3,0,,,3,3,3,3,3,0.905142,0.684559,1094.68,0,15335
+lorenz96,Lorenz-96,EDO difícil,2,True,2,0,0,0,0,60,2,2,0,,,2,2,2,2,2,1.01965,0.812382,1936.83,0,8109
+lotka_volterra,Lotka–Volterra,EDO,4,True,4,0,0,0,0,40,4,4,0,,,4,4,4,4,4,1.02175,0.777174,,0,13234
+onda,Onda amortecida,EDP,2,True,2,0,0,0,0,40,2,2,0,,,2,2,2,2,2,1.16712,1.00077,,0,5008
+oscilador,Oscilador forçado,EDO,3,True,3,0,0,0,0,30,3,3,0,,,3,3,3,3,3,0.926046,0.726959,,0,9013
+pendulo,Pêndulo amortecido,EDO,2,True,2,0,0,0,0,30,2,2,0,,,2,2,2,2,2,1.18768,0.98392,,0,6024
+pk2,PK de dois compartimentos,EDO,4,True,4,0,0,0,0,20,4,4,0,,,4,4,4,4,4,1.41291,1.20542,,0,16004
+pk_flipflop,PK com flip-flop,EDO difícil,3,True,3,0,0,0,3,16,3,3,0,,,3,3,3,3,3,1.10634,0.990899,,0,10980
+produto,Decaimento com escala,EDO difícil,3,True,1,0,2,2,0,15,2,2,1,k; A·s,A / s,2,3,2,3,2,1.41929,1.12943,,0,12974
+repressilator,Repressilador,EDO difícil,4,True,1,3,0,0,0,10,4,4,0,,,4,4,4,4,4,1.38026,1.00462,,0,28193
+robertson,Robertson,EDO difícil,3,True,3,0,0,0,0,75,3,3,0,,,3,3,3,3,3,1.36481,1.12021,,0,7999
+rosenzweig_macarthur,Rosenzweig–MacArthur,EDO,5,True,5,0,0,0,0,60,5,5,0,,,5,5,5,5,5,0.68837,0.543796,,0,23847
+seir,SEIR,EDO,3,True,3,0,0,0,0,25,3,3,0,,,3,3,3,3,3,1.3266,1.04323,,0,10842
+seir_inicio,SEIR (só o início),EDO difícil,3,True,1,1,1,0,0,12,3,3,0,,,2,3,3,3,3,1.41303,1.12953,,0,13512
+van_der_pol,Van der Pol,EDO,2,True,2,0,0,0,0,30,2,2,0,,,2,2,2,2,2,1.00806,0.841155,,0,6212

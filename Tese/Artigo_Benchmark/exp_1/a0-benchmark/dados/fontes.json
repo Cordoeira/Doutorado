@@ -1,0 +1,273 @@
+{
+ "lebre_lince": {
+  "descricao": "Peles de lebre-americana e de lince-do-canadá compradas pela Hudson's Bay Company, 1900 a 1920 (milhares de peles por ano).",
+  "referencia": "Série compilada em Howard, P. (2009), Modeling Basics, notas de aula M442, Texas A&M University; usada no estudo de caso do Stan de Carpenter, B. (2018), Predator-Prey Population Dynamics: the Lotka-Volterra model in Stan.",
+  "url": "https://raw.githubusercontent.com/stan-dev/example-models/master/knitr/lotka-volterra/hudson-bay-lynx-hare.csv",
+  "observacoes": "Peles são um indicador indireto do tamanho das populações.",
+  "sha256_bruto": "66d3b24d30221a5654ab48cc461ea1d3f725f8f5719016f702cfb56610b4ee63",
+  "obtido_em": "2026-11-16"
+ },
+ "gripe_internato": {
+  "descricao": "Surto de influenza num internato inglês, janeiro e fevereiro de 1978: meninos acamados (B) e convalescentes (C) por dia; 763 em risco, 512 adoeceram.",
+  "referencia": "Anonymous (1978), Influenza in a boarding school, British Medical Journal 1(6112). Valores lidos do gráfico (erro de cerca de 1 caso) e distribuídos por King, A. A. et al., curso Simulation-Based Inference for Epidemiological Dynamics (conjunto bsflu do pacote pomp).",
+  "url": "https://kingaa.github.io/sbied/stochsim/bsflu_data.txt",
+  "observacoes": "Dia 1 = 22/01/1978.",
+  "sha256_bruto": "ccd3ac7610c0df0cc8ec232a36c919fa4fa1f8dad270a602f2500c558f37cf58",
+  "obtido_em": "2026-11-16"
+ },
+ "teofilina": {
+  "descricao": "Concentração sérica de teofilina (mg/L) após dose oral única em 12 voluntários, 11 instantes em 25 h.",
+  "referencia": "Boeckmann, A. J., Sheiner, L. B. e Beal, S. L. (1994), NONMEM Users Guide, Part V (estudo de R. Upton); conjunto Theoph do R (pacote datasets), analisado em Pinheiro e Bates (2000), Mixed-Effects Models in S and S-PLUS, cap. 5.",
+  "url": "https://vincentarelbundock.github.io/Rdatasets/csv/datasets/Theoph.csv",
+  "observacoes": "Usa-se o sujeito 1. O instante 0 (concentração pré-dose de 0,74 mg/L, resíduo de dose anterior) fica fora da verossimilhança.",
+  "sha256_bruto": "f9b77033090644cf38c83056c25c8137bca71cf629d7c0159a72ef18095726b0",
+  "obtido_em": "2026-11-16"
+ },
+ "indometacina": {
+  "descricao": "Concentração plasmática de indometacina (µg/mL) após injeção intravenosa em bolus em 6 voluntários, 11 instantes em 8 h.",
+  "referencia": "Kwan, K. C., Breault, G. O., Umbenhauer, E. R., McMahon, F. G. e Duggan, D. E. (1976), Kinetics of indomethacin absorption, elimination, and enterohepatic circulation in man, Journal of Pharmacokinetics and Biopharmaceutics 4, 255-280; conjunto Indometh do R (pacote datasets).",
+  "url": "https://vincentarelbundock.github.io/Rdatasets/csv/datasets/Indometh.csv",
+  "observacoes": "Usa-se o sujeito 1. A dose entra só pela concentração inicial C0 = dose/V, que é um parâmetro.",
+  "sha256_bruto": "aecce7eaa7fd2057ea5bf5a02943463ad5036354dd87a0808376ce502aaf0049",
+  "obtido_em": "2026-11-16"
+ },
+ "jin2016": {
+  "descricao": "Ensaios de arranhão com células PC-3: densidade celular (células/µm²) em 38 colunas de 50 µm, nos instantes 0, 12, 24, 36 e 48 h, 3 réplicas, 6 densidades iniciais (10 a 20 mil células por poço).",
+  "referencia": "Jin, W., Shah, E. T., Penington, C. J., McCue, S. W., Chopin, L. K. e Simpson, M. J. (2016), Reproducibility of scratch assays is affected by the initial degree of confluence: experiments, modelling and model selection, Journal of Theoretical Biology 390, 136-145. Arquivo distribuído por Lagergren, J. H. et al. (2020), Biologically-informed neural networks guide mechanistic modeling from sparse experimental data, PLOS Computational Biology 16, e1008462.",
+  "url": "https://raw.githubusercontent.com/jlager/BINNs/master/Data/cell_density_profiles.npy",
+  "observacoes": "Usa-se a densidade inicial de 10 mil células por poço e a média das 3 réplicas. A coluna da borda esquerda (x = 25 µm) fica fora, como em Lagergren et al. (2020), que a identificaram como atípica. A capacidade de suporte K = 1,7e-3 células/µm² é a de Jin et al. (2016).",
+  "sha256_bruto": "0b6af8ea30f39809795a33c0bc28a60a07ccbc70f6f0f13515a24b1e635d5ab9",
+  "obtido_em": "2026-11-16"
+ },
+ "veilleux": {
+  "descricao": "Paramecium aurelia (presa) e Didinium nasutum (predador) em cultura, densidades por mL a cada 12 h durante 35 dias (71 instantes).",
+  "referencia": "Veilleux, B. G. (1976), The analysis of a predatory interaction between Didinium and Paramecium, dissertação de mestrado, University of Alberta. Série analisada em Jost, C. e Ellner, S. P. (2000), Testing for predator dependence in predator-prey dynamics: a non-parametric approach, Proceedings of the Royal Society B 267, 1611-1620. Distribuída no pacote R TSA (Chan, K.-S. e Ripley, B.), conjunto veilleux.",
+  "url": "https://raw.githubusercontent.com/cran/TSA/master/data/veilleux.rda",
+  "observacoes": "No pacote TSA os rótulos das colunas estão trocados: a série 1 (rotulada Didinium) antecede a série 2 em cerca de 1 dia (correlação cruzada 0,82), logo é a presa. O CSV curado usa os nomes corrigidos. O modelo de Rosenzweig-MacArthur acerta o período, mas explica só cerca de 30% a 40% da variância (modelo mal especificado).",
+  "sha256_bruto": "4ef2443fc30dc31328f9c15ec05a7ebf9cfeed96ace1e90d72f769f23af0eb78",
+  "obtido_em": "2026-11-22"
+ },
+ "gause": {
+  "descricao": "Paramecium caudatum (presa) e Didinium nasutum (predador) em microcosmo com imigração a cada três dias, contagens diárias por 17 dias.",
+  "referencia": "Gause, G. F. (1934), The Struggle for Existence, Williams and Wilkins, Baltimore, figura 32. Digitalizado em Mühlbauer, L. K., Schulze, M., Harpole, W. S. e Clark, A. T. (2020), gauseR: simple methods for fitting Lotka-Volterra models describing Gause's Struggle for Existence, Ecology and Evolution 10, 13275-13283 (conjunto gause_1934_book_f32).",
+  "url": "https://raw.githubusercontent.com/cran/gauseR/master/data/gause_1934_book_f32.rda",
+  "observacoes": "Valores digitalizados da figura. A imigração (dias 3, 6, 9, 12 e 15) entra no modelo como um pulso suave logo após a contagem do dia, com a mesma quantidade para as duas espécies (parâmetro). Há contagens nulas; a escala observada é a raiz quadrada.",
+  "sha256_bruto": "148d5df730548b497475f85c2dabf22042d396c6fcced3e91ad9fddbe43c034f",
+  "obtido_em": "2026-11-22"
+ },
+ "alfa_pineno": {
+  "descricao": "Isomerização térmica do α-pineno em fase líquida: porcentagem em massa de α-pineno, dipenteno, alo-ocimeno, pironeno e dímero em 8 instantes (1230 a 36420 min).",
+  "referencia": "Fuguitt, R. E. e Hawkins, J. E. (1947), Rate of the thermal isomerization of α-pinene in the liquid phase, Journal of the American Chemical Society 69, 319-322. Modelo e dados como em Box, G. E. P., Hunter, W. G., MacGregor, J. F. e Erjavec, J. (1973), Some problems associated with the analysis of multiresponse data, Technometrics 15, 33-51. Valores do problema pinene da coleção COPS: Dolan, E. D., Moré, J. J. e Munson, T. S. (2004), Benchmarking optimization software with COPS 3.0, relatório ANL/MCS-TM-273, Argonne National Laboratory.",
+  "url": "https://raw.githubusercontent.com/MadNLP/COPSBenchmark.jl/main/ext/COPSBenchmarkJuMP/pinene.jl",
+  "observacoes": "Condição inicial fixa (100, 0, 0, 0, 0). Box et al. (1973) mostram dependências lineares entre as respostas (parte dos valores foi calculada, não medida).",
+  "sha256_bruto": "e4fc7a920aedc2a4747d6fa766095d279451e6b107d057f3094a75220c7a25e3",
+  "obtido_em": "2026-11-22"
+ },
+ "hes1": {
+  "descricao": "mRNA de Hes1 (variação relativa a um controle, por PCR quantitativo em tempo real) em 8 instantes, de 30 a 240 min.",
+  "referencia": "Silk, D., Kirk, P. D. W., Barnes, C. P., Toni, T., Rose, A., Moon, S., Dallman, M. J. e Stumpf, M. P. H. (2011), Designing attractive models via automated identification of chaotic and oscillatory dynamical regimes, Nature Communications 2, doi:10.1038/ncomms1496. Modelo, constante de degradação (0,03 por min) e condições iniciais (2, 5, 3) como em Filippi, S., Barnes, C. P., Cornebise, J. e Stumpf, M. P. H. (2013), On optimality of kernels for approximate Bayesian computation using sequential Monte Carlo, Statistical Applications in Genetics and Molecular Biology 12, 87-107.",
+  "url": "https://arxiv.org/abs/2310.04395",
+  "observacoes": "Valores transcritos do apêndice E de Schmitt, M. et al. (2024), Leveraging self-consistency for data-efficient amortized Bayesian inference, arXiv:2310.04395, que reproduz os dados de Silk et al. (2011). Não há arquivo bruto. A transcrição e o espaçamento de 30 min não foram conferidos contra a fonte primária.",
+  "sha256_bruto": null,
+  "obtido_em": "2026-11-22"
+ },
+ "pendulo": {
+  "descricao": "Ângulo de um pêndulo oscilando livremente, medido por captura óptica de movimento (Qualisys, 12 câmeras) a 200 Hz por 3,2 s.",
+  "referencia": "Giessler, M. (2025), Kinematic data of a pendulum serving as an angular acceleration reference, figshare, conjunto de dados, doi:10.6084/m9.figshare.28271405.v1 (licença CC BY 4.0).",
+  "url": "https://ndownloader.figshare.com/files/51958601",
+  "observacoes": "Usa-se a coluna MOCAP (medida óptica sem filtro), 1 a cada 5 amostras (passo de 25 ms, 130 instantes). O ângulo e a velocidade angular iniciais são parâmetros.",
+  "sha256_bruto": "dde9ee9df4a5a0a1f58f36ad242e4f81b701fe7eafa753041131c6f33f39de16",
+  "obtido_em": "2026-11-22"
+ },
+ "fhn_rato": {
+  "descricao": "Registro extracelular da radícula dorsal L5 de uma rata Sprague Dawley com matriz de eletrodos; 20 registros, 5 canais.",
+  "referencia": "Metcalfe, B. (2020), Action potentials recorded from the L5 dorsal rootlet of rat using a multiple electrode array, Mendeley Data, v1, doi:10.17632/ybhwtngzmm.1 (licença CC BY 4.0). Dados usados em Samson, A., Tamborrino, M. e Tubikanec, I. (2025), Inference for the stochastic FitzHugh-Nagumo model from real action potential data via approximate Bayesian computation, Computational Statistics and Data Analysis 204, 108095.",
+  "url": "https://data.mendeley.com/public-files/datasets/ybhwtngzmm/files/d39253c9-4cb5-40a6-84fd-f81cd2503cad/file_downloaded",
+  "observacoes": "Usa-se o primeiro registro em repouso (1551.mat), canal 1. O dado do modelo é a média de 64 disparos alinhados pelo pico (limiar de 6 desvios robustos), em janela de 0,5 ms na base de tempo do arquivo, 50 instantes. A descrição do conjunto fala em 50 kHz e 250 ms, mas o arquivo tem 125 mil amostras com passo de 2 µs; a escala de tempo é um parâmetro do modelo. O registro bruto é um trem de disparos irregulares, que uma EDO determinística não descreve; por isso se ajusta a forma média do disparo. Os resíduos da média são autocorrelacionados.",
+  "sha256_bruto": "09ec2767a88fb8596e21b213c91a160973ed42ccfc01e3d09c5aceb0bfff29aa",
+  "obtido_em": "2026-11-22"
+ },
+ "tracador_esgoto": {
+  "descricao": "Ensaios de traçador (NaCl) em trechos de esgoto em tempo seco: condutividade a montante e a jusante. Experimento 2: trecho RUE, 469 m, vazão de 0,028 m³/s.",
+  "referencia": "Rieckermann, J., Neumann, M., Ort, C., Huisman, J. L. e Gujer, W. (2005), Dispersion coefficients of sewers from tracer experiments, Water Science and Technology 52(5), 123-133, doi:10.2166/wst.2005.0124. Dados em Rieckermann, J. e Chavarría Vargas, A. (2026), Dispersion coefficients of sewers from tracer experiments - Dataset, Zenodo, doi:10.5281/zenodo.20831873 (licença CC0).",
+  "url": "https://zenodo.org/api/records/20831873/files/aaa_paper_std.zip/content",
+  "observacoes": "Escolheu-se o experimento 2 por ter a curva a montante completa e a de jusante com passo de 15 s. A curva a montante entra como condição de entrada: janela de 150 s antes a 450 s depois do pico, menos uma linha de base reta entre as medianas das bordas. A solução da equação de advecção-dispersão é a convolução dessa entrada com a função de transferência do trecho.",
+  "sha256_bruto": "c29830696ab47709bb43a79707043336345b6c8766a637a66f6499557527772c",
+  "obtido_em": "2026-11-22"
+ },
+ "regra_sigma": "Ruído gaussiano aditivo na escala indicada em cada modelo, com desvio fixo por grupo de saídas, igual a raiz(RSS / (n_k - d n_k / n)) no ajuste de máxima verossimilhança (plug-in com correção de graus de liberdade, 64 inícios do prior). A posterior de referência e todos os métodos usam o mesmo sigma, de modo que a comparação entre métodos não depende dessa escolha. Recalcule com: python -m a0bench.dados_reais.preparar <brutos> --sigma",
+ "sigma": {
+  "lebre_lince": {
+   "sigma": [
+    0.2358895476615085,
+    0.23770562325591163
+   ],
+   "mle": [
+    0.540159236849467,
+    0.027165374447898342,
+    0.7963855934908143,
+    0.023694620418603148,
+    34.60243161848459,
+    5.84450701782927
+   ],
+   "nll_sigma1": 1.0093305782108926,
+   "mle_na_borda": false
+  },
+  "gripe_internato": {
+   "sigma": [
+    1.9413087523715375,
+    2.589971200654101
+   ],
+   "mle": [
+    2.259159738554932,
+    0.9894097714774751,
+    0.4652692241282361,
+    0.6303530818384541
+   ],
+   "nll_sigma1": 62.85978295351191,
+   "mle_na_borda": false
+  },
+  "pk_teofilina": {
+   "sigma": [
+    0.11154745025034647
+   ],
+   "mle": [
+    -1.2864474943884725,
+    0.17278842779567835,
+    -1.889657403270306
+   ],
+   "nll_sigma1": 0.04354991780073733,
+   "mle_na_borda": false
+  },
+  "pk_indometacina": {
+   "sigma": [
+    0.06746986004289544
+   ],
+   "mle": [
+    -0.0035948898958996487,
+    -0.16206030846743627,
+    -0.5052305608918046,
+    0.35400278709200833
+   ],
+   "nll_sigma1": 0.015932637049727652,
+   "mle_na_borda": false
+  },
+  "fisher_kpp_jin": {
+   "sigma": [
+    0.10779020719182945
+   ],
+   "mle": [
+    314.18707551438627,
+    0.04358402007269584
+   ],
+   "nll_sigma1": 0.848167199951399,
+   "mle_na_borda": false
+  },
+  "didinium_veilleux": {
+   "sigma": [
+    0.5919417249121472,
+    0.4864873241218762
+   ],
+   "mle": [
+    0.6877672309133546,
+    2.248188026892976,
+    -0.45022805778859987,
+    -0.6067328706678594,
+    0.23623586334768812,
+    0.7830527445437248,
+    20.777703720446127,
+    15.016546335547158
+   ],
+   "nll_sigma1": 19.66667489447826,
+   "mle_na_borda": false
+  },
+  "didinium_gause": {
+   "sigma": [
+    1.15617738688714,
+    0.7991452299590254
+   ],
+   "mle": [
+    0.88316818903981,
+    0.07746767688675661,
+    0.08264421377870555,
+    1.0103757887630838,
+    0.7122759661456134,
+    1.410283493209004
+   ],
+   "nll_sigma1": 13.827654739608072,
+   "mle_na_borda": false
+  },
+  "alfa_pineno": {
+   "sigma": [
+    0.7974853617872051,
+    0.8507296273508691,
+    0.575287461262664,
+    0.6221251282147221,
+    0.8724459011718028
+   ],
+   "mle": [
+    -4.227249427991485,
+    -4.528209418026098,
+    -4.688821451375974,
+    -3.5615087062551924,
+    -4.398163640976553
+   ],
+   "nll_sigma1": 9.936083464408929,
+   "mle_na_borda": false
+  },
+  "hes1": {
+   "sigma": [
+    1.195268557883509
+   ],
+   "mle": [
+    2.518709340281987,
+    6.608999459109265,
+    -1.0321713375465416,
+    -1.55582215196086
+   ],
+   "nll_sigma1": 2.8573338509298463,
+   "mle_na_borda": false
+  },
+  "pendulo_mocap": {
+   "sigma": [
+    0.005048065376608732
+   ],
+   "mle": [
+    26.857068477417723,
+    0.016163233997776603,
+    -1.023931873264787,
+    -0.1582839653371597
+   ],
+   "nll_sigma1": 0.0016054267349304993,
+   "mle_na_borda": false
+  },
+  "fhn_rato": {
+   "sigma": [
+    0.03793587883670541
+   ],
+   "mle": [
+    0.8979800041242187,
+    0.05000000000000001,
+    2.122871611797955,
+    -1.2392619000704785,
+    0.09279732687303736,
+    -0.45876380448488535
+   ],
+   "nll_sigma1": 0.031660879868490255,
+   "mle_na_borda": true
+  },
+  "tracador_esgoto": {
+   "sigma": [
+    0.0721803537189135
+   ],
+   "mle": [
+    0.3784444081686149,
+    -1.1605421206410391,
+    0.945313234044119,
+    0.9254105724205852
+   ],
+   "nll_sigma1": 0.13546009003767423,
+   "mle_na_borda": false
+  }
+ }
+}

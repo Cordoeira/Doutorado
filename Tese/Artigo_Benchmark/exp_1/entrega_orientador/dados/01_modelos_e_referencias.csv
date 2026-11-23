@@ -1,0 +1,42 @@
+problema,rotulo,tipo,grupo,desafio,d,n_obs,t_f_ms,custo_grad,grad_ok,map_origem,ref_rhat,ref_ess,ref_passos,ref_ok,classe
+Bertozzi_PNAS2020,Bertozzi (PEtab),EDO (PEtab),petab,dados reais,8,22,2.10349,2.63233,1,otimizacao,1.00278,1600.05,50000,True,PEtab
+Boehm_JProteomeRes2014,Boehm (PEtab),EDO (PEtab),petab,dados reais,9,48,3.64315,9.18673,1,otimizacao,1.00145,2677.27,50000,True,PEtab
+Bruno_JExpBot2016,Bruno (PEtab),EDO (PEtab),petab_grande,dados reais,13,77,6.3094,4.24681,1,otimizacao,1.00117,2220.85,50000,True,PEtab grande
+Crauste_CellSystems2017,Crauste (PEtab),EDO (PEtab),petab,dados reais,12,21,2.67078,13.1211,1,otimizacao,1.00531,426.953,50000,True,PEtab
+Elowitz_Nature2000,Elowitz (PEtab),EDO (PEtab),petab_grande,dados reais,21,58,9.74267,15.5163,1,otimizacao,1.04194,99.1029,400000,False,PEtab grande
+Fujita_SciSignal2010,Fujita (PEtab),EDO (PEtab),petab_grande,dados reais,19,144,17.3565,67.3395,1,"nominal, polido",1.00346,587.509,50000,True,PEtab grande
+Rahman_MBS2016,Rahman (PEtab),EDO (PEtab),petab,dados reais,9,23,2.73029,8.16999,1,otimizacao,1.00226,1938.33,400000,True,PEtab
+Sneyd_PNAS2002,Sneyd (PEtab),EDO (PEtab),petab_grande,dados reais,15,135,27.3641,17.1164,1,otimizacao,1.00253,941.325,400000,True,PEtab grande
+adveccao_difusao,Advecção–difusão,EDP,facil,,2,40,0.0644254,3,1,otimizacao,1.00027,12091,50000,True,EDP
+allen_cahn,Allen–Cahn,EDP,facil,,2,40,0.068492,3,1,otimizacao,1.00035,11865.7,50000,True,EDP
+allen_cahn_meta,Allen–Cahn metaestável,EDP,dificil,pouco informativo (estado quase estacionário),3,16,0.320199,4,1,otimizacao,1.00029,7230.73,50000,True,EDP difícil
+brusselator,Brusselator,EDO,facil,,2,60,0.565781,3,1,otimizacao,1.00033,11492.1,50000,True,EDO
+burgers,Burgers viscoso,EDP,facil,,2,40,0.28817,3,1,otimizacao,1.0003,12081.4,50000,True,EDP
+cadeia_simetrica,Cadeia de decaimento,EDO,dificil,multimodal (6 modos por simetria),3,25,0.0651087,4,1,otimizacao,1.00359,423.582,200000,True,EDO difícil
+calor,Calor com fonte,EDP,facil,,2,40,0.190915,3,1,otimizacao,1.00014,11364.7,50000,True,EDP
+calor_inverso,Calor inverso,EDP,dificil,mal-posto (modos altos apagados),8,16,0.391584,9,1,otimizacao,1.00115,3292.16,50000,True,EDP difícil
+darcy,Darcy (difusão estacionária),EDP,facil,,6,15,0.0299714,7,1,otimizacao,1.00069,4874.94,50000,True,EDP
+darcy16,Darcy (16 coeficientes),EDP,dificil,"d alto, dominado pelo prior",16,7,0.0270257,17,1,otimizacao,1.0104,748.854,50000,True,EDP difícil
+fhn_difusao,FitzHugh–Nagumo com difusão,EDP,dificil,"onda não linear, dados esparsos",4,12,2.30469,5,1,otimizacao,1.00045,5222.82,50000,True,EDP difícil
+fisher_frente,Fisher–KPP (um instante),EDP,dificil,não identificável (crista D-r-x0),3,8,0.0516964,4,1,otimizacao,1.00078,7460.51,50000,True,EDP difícil
+fisher_kpp,Fisher–KPP,EDP,facil,,2,40,0.151001,3,1,otimizacao,1.00037,12073.4,50000,True,EDP
+fitzhugh_nagumo,FitzHugh–Nagumo,EDO,facil,,3,80,0.400738,4,1,otimizacao,1.00022,9485.88,50000,True,EDO
+goodwin,Goodwin,EDO,facil,,4,60,0.146404,5,1,otimizacao,1.00039,2411.61,50000,True,EDO
+goodwin_hill,Goodwin (Hill livre),EDO,dificil,"multimodal, dados esparsos",5,14,0.628692,6,1,otimizacao,1.00212,1640.49,50000,True,EDO difícil
+hires,HIRES,EDO,dificil,rígido,4,80,0.786145,5,1,otimizacao,1.00041,5630.79,50000,True,EDO difícil
+lorenz63,Lorenz-63,EDO,facil,,3,45,0.0960964,4,1,otimizacao,1.00013,9911.65,50000,True,EDO
+lorenz63_longo,Lorenz-63 (janela longa),EDO,dificil,caótico,3,120,0.105801,4,1,otimizacao,1.00092,1349.5,100000,True,EDO difícil
+lorenz96,Lorenz-96,EDO,dificil,caótico,2,60,0.105865,3,1,otimizacao,1.0048,424.146,50000,True,EDO difícil
+lotka_volterra,Lotka–Volterra,EDO,facil,,4,40,0.0761365,5,1,otimizacao,1.00037,8329.14,50000,True,EDO
+onda,Onda amortecida,EDP,facil,,2,40,0.190434,3,1,otimizacao,1.00014,12564.6,50000,True,EDP
+oscilador,Oscilador forçado,EDO,facil,,3,30,0.405791,4,1,otimizacao,1.00039,10237.8,50000,True,EDO
+pendulo,Pêndulo amortecido,EDO,facil,,2,30,0.340377,3,1,otimizacao,1.00017,12260.5,50000,True,EDO
+pk2,PK de dois compartimentos,EDO,facil,,4,20,0.0694218,5,1,otimizacao,1.00202,6892.48,50000,True,EDO
+pk_flipflop,PK com flip-flop,EDO,dificil,multimodal (2 modos),3,16,0.117228,4,1,otimizacao,1.00038,643.167,400000,True,EDO difícil
+produto,Decaimento com escala,EDO,dificil,não identificável (só o produto),3,15,0.0589675,4,1,otimizacao,1.00001,9239.06,50000,True,EDO difícil
+repressilator,Repressilador,EDO,dificil,"oscilatório, dados esparsos",4,10,1.08841,5,1,otimizacao,1.00219,2671.35,50000,True,EDO difícil
+robertson,Robertson,EDO,dificil,rígido,3,75,0.496049,4,1,otimizacao,1.00009,10817.2,50000,True,EDO difícil
+rosenzweig_macarthur,Rosenzweig–MacArthur,EDO,facil,,5,60,0.190701,6,1,otimizacao,1.00053,3334.32,50000,True,EDO
+seir,SEIR,EDO,facil,,3,25,0.0680569,4,1,otimizacao,1.00127,2721.88,50000,True,EDO
+seir_inicio,SEIR (só o início),EDO,dificil,pouco informativo,3,12,0.0171275,4,1,otimizacao,1.00025,3960.71,50000,True,EDO difícil
+van_der_pol,Van der Pol,EDO,facil,,2,30,0.165015,3,1,otimizacao,1.00004,12632.3,50000,True,EDO

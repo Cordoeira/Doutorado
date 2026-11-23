@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "a0bench"
+version = "3.2"
+description = "A0: benchmark de inferência bayesiana em EDOs e EDPs"
+requires-python = ">=3.12"
+# as dependências, com versões fixas, estão em requirements.txt
+
+[project.scripts]
+a0bench = "a0bench.__main__:main"
+
+[tool.setuptools]
+packages = ["a0bench", "a0bench.dados_reais"]
+

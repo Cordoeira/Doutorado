@@ -1,0 +1,42 @@
+{
+ "python": "3.12.3",
+ "plataforma": "Linux-6.18.58.1-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+ "maquina": "POAGESBCWZV94",
+ "processador": "x86_64",
+ "nucleos": 12,
+ "pacotes": {
+  "numpy": "2.5.4",
+  "scipy": "1.18.1",
+  "pandas": "3.0.6",
+  "matplotlib": "3.11.2",
+  "seaborn": "0.13.2",
+  "numba": "0.68.1",
+  "rich": "15.0.0",
+  "torch": "2.14.1",
+  "sbi": "0.27.0",
+  "tabpfn": "9.2.0",
+  "amici": "1.1.0",
+  "petab": "0.9.0",
+  "pypesto": "0.7.0",
+  "benchmark_models_petab": "2026.1.23.dev21+g32d021a01"
+ },
+ "codigo": {
+  "arquivos": {
+   "__init__.py": "09fabfbfb1e28b8445140aee4634355f374bec8261cc3c81f83edbd4746e16e9",
+   "__main__.py": "ce5f4f97f29c3d901cc6cc6ff95c7772e81adfd1757a3c6471a0ea8779df554e",
+   "cadeias.py": "87fd4acb1eaef9be7c794e130ded762ccec6200204324ee29721263ad0a9568b",
+   "config.py": "d7e3e348e61c6e056fcbba85ec10c707d998a8f0836c4a9e93a25386d3f815fa",
+   "executor.py": "cbd87beca5ee33a94788d5a437488537bbfd19d1cdc370b68f86d74c0fb3c476",
+   "graficos.py": "1bfecd5b2909b4c8ac3e09fac4418f07124563c6dc07e7e2d23c9a9adb978708",
+   "identificabilidade.py": "1bbf9a689b3ac4a46f365494c304831a253a8a4099456d94c746f2064f5bbd26",
+   "inferencia.py": "a7d23c712fdd11a2c6ced5a20c78d8619d562f8dba3e9dec877bedb06feeddd5",
+   "modelos.py": "64f324d1b349620e7378fcbc161cf79d138f756d1c70c32fb1938947395f332f",
+   "monitor.py": "a1f3373cf649f645d7f0f246b4c9a34327bc322250fd8c1b5aa44a49dc33c5de",
+   "problemas.py": "5b22d97b4ed82411817f5acaa83812434077f28f02dfdab419fc6585db30cf96",
+   "resultados.py": "649486df7bbb5ac096436609eee7a4ad941a580d23d6a6bec8ffad61b758abb4",
+   "util.py": "16cbda8f747c0f9e6d556f31c62a2f5074b8e9f2d431d12648739b8c4706f090",
+   "verificar.py": "066f515486f65b6440c689b58af5f5ff246835c62b264a60c593fc59bccc7548"
+  },
+  "total": "109ffa5fd572ce49"
+ }
+}

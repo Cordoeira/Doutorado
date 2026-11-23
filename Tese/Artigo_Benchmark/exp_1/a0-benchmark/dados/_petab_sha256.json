@@ -1,0 +1,194 @@
+{
+ "Bertozzi_PNAS2020": {
+  "arquivos": {
+   "conditions.tsv": "8e1d218bde209ac86f0ec99e3a5a904a430ba0a66c8bb9dc0251ded917f5a19a",
+   "measurements.tsv": "150fa0a9dd4c0dd6b7b6726e7c9ed68871d199bbea12f5299f171dd4cfbd3211",
+   "model.xml": "9812433223587d84c60f9ab202197cfb561e28d30dd16a49d9ec85256eb0ea37",
+   "observables.tsv": "0ad0e5f9a742c3377c04ecea4fa9bb49e95cb53c45f2e04a3f5f9d3423416b69",
+   "parameters.tsv": "7ec349ef6b57f0ada3e3c68cfff088a85d647f116d78950ea48a79c415ffb1b9",
+   "problem.yaml": "16fd70a09e7ee100637e9ab9e2efcf46a3420e2de9569ebaacec041fe1755158",
+   "visualizations.tsv": "1fc85e92e9fca0d03d5ad43d6498bef19bf2afd01189bb04867ac2d5ddeac2c3"
+  },
+  "versao_colecao": "2026.1.23.dev21+g32d021a01"
+ },
+ "Boehm_JProteomeRes2014": {
+  "arquivos": {
+   "conditions.tsv": "523a28f32498f4dc0e4301692559c4d2f571f21d8e454270d22e91e0725b50b6",
+   "measurements.tsv": "2cbea2fd6d595bc753c602f1fb7edc404d840b243983c279042a9f2996a6ca59",
+   "model.xml": "90fc7f262efd9a2878e8ae0321cfdd66339b18e9573f4aba1469b6268d572ea2",
+   "observables.tsv": "5e9a4692ce33e00b2ffb55b32b824e3ba19518546854fe0b4ffebd3f896f2429",
+   "parameters.tsv": "5fad6c55cc5433289dee6997ef0da1e0ce5cbcfa39c37558135773855061f291",
+   "problem.yaml": "16fd70a09e7ee100637e9ab9e2efcf46a3420e2de9569ebaacec041fe1755158",
+   "visualizations.tsv": "61afd231f8b30dca8670948748f867df12bf33cba35f56e886b0962b8bbb5cdf"
+  },
+  "versao_colecao": "2026.1.23.dev21+g32d021a01"
+ },
+ "Rahman_MBS2016": {
+  "arquivos": {
+   "conditions.tsv": "e3a240d5109ad6cad550b940d327f6388d227f0fd4e473fc2a7357caeaf95cc4",
+   "measurements.tsv": "77ea7059f814d706a2b1c12a1acf7617bdf9dec2fe8f684b559a5ed01b0261f9",
+   "model.xml": "00632eaa0aaf371b07b56dea05f12005997809c685953d4960a84cd700100394",
+   "observables.tsv": "dff3482246b6e8525d3526fbca16637e683343db7e5a0dd921c36072da01a25c",
+   "parameters.tsv": "78a8fd99e76fb5a524eb6c7275bf3ea7bf4e8f18a6c1ce5466aa6eae4e9f1569",
+   "problem.yaml": "16fd70a09e7ee100637e9ab9e2efcf46a3420e2de9569ebaacec041fe1755158",
+   "visualizations.tsv": "b647de9ddfa3c7e785753836a9b61baf55fe892841031e806e67c2e8081dfcf1"
+  },
+  "versao_colecao": "2026.1.23.dev21+g32d021a01"
+ },
+ "Crauste_CellSystems2017": {
+  "arquivos": {
+   "conditions.tsv": "523a28f32498f4dc0e4301692559c4d2f571f21d8e454270d22e91e0725b50b6",
+   "measurements.tsv": "7678415173c981d396b52d658274c2c95a420c5f28883ccdd3bebb2b1d31c1f6",
+   "model.xml": "27cdd9e58a9a5b678d8d55ae49fdaba4c2e52a16de6b434fe0f77eb775614bfd",
+   "observables.tsv": "54addce608c8766aee9e9b332f9fe48fc38cc068836cf010a9f6e7d1793e20fb",
+   "parameters.tsv": "a767896b1be50d914a38f1eadd7fc132be114780ae5d5bbed742c52b47289882",
+   "problem.yaml": "16fd70a09e7ee100637e9ab9e2efcf46a3420e2de9569ebaacec041fe1755158",
+   "visualizations.tsv": "3f2c6e142708dbc82d7d9f6e7a370bb3c4fdf58afa4d882ce84a932768158451"
+  },
+  "versao_colecao": "2026.1.23.dev21+g32d021a01"
+ },
+ "Bruno_JExpBot2016": {
+  "arquivos": {
+   "conditions.tsv": "cf0eb013e621170636edde79e9c054cbd4f26c65a3dcb866bbaaf65617b56496",
+   "measurements.tsv": "668e25ea2e9a6206506ad7c447f263e1a90868eeae070f3f0b983851aafcf8d2",
+   "model.xml": "c769e63b6c12f63f172fd1f4e386fee5065d48a7b1029afb27d8217aaaa90399",
+   "observables.tsv": "11e9281cc9e58d3434ef80dc768da067a74a49d4c5a29dd78a528913f1ffd25b",
+   "parameters.tsv": "5b90ed25b154d92a801c2ce1eff891912cbe15f874d48a0ae3863a96fb9171c7",
+   "problem.yaml": "16fd70a09e7ee100637e9ab9e2efcf46a3420e2de9569ebaacec041fe1755158",
+   "visualizations.tsv": "940e55d52b7c03771cc3a75f3b0b8cb4c034f5ea039645253f087459076954ae"
+  },
+  "versao_colecao": "2026.1.23.dev21+g32d021a01"
+ },
+ "Sneyd_PNAS2002": {
+  "arquivos": {
+   "conditions.tsv": "fe527b402bcccfab2edebcccbebe76f6bfc3270242921b130a1d7fe50684742e",
+   "measurements.tsv": "3b11f5ff9dbfa91b549a6de0ed2f15da950abfe418dcf13fb9df0b38f78d3864",
+   "model.xml": "2c3b5e5ffe2f62c19a28bf3261d5aa0582f862ce6b64532737c87a070f7ca592",
+   "observables.tsv": "81f236862b05b2e25fe2d6c86bafede0c1e96b3c6f0a9042ee823b20b6a4ba7e",
+   "parameters.tsv": "f2f5b61633519ce5918898daf74c5c609b3aee6511fcd9fcfb79a0bbe02b8bd6",
+   "problem.yaml": "16fd70a09e7ee100637e9ab9e2efcf46a3420e2de9569ebaacec041fe1755158",
+   "visualizations.tsv": "9eaf82fbc8ac004b24e996b616c352c33a4d49e6655e224643229279dddae893"
+  },
+  "versao_colecao": "2026.1.23.dev21+g32d021a01"
+ },
+ "Fujita_SciSignal2010": {
+  "arquivos": {
+   "conditions.tsv": "8c03ee64c2b66fb62a93dfa0cf55e115bc73d260f5094d13780f1896058e8922",
+   "measurements.tsv": "1b954ea16f0c4dc8248337c46b5af5b9da09bda6494494805d07879a13625889",
+   "model.xml": "7c98367f2210b1d10b3e3edbb9d80153f8f010b7f222c6899b5d94bbf44cc6b8",
+   "observables.tsv": "d0f72fc7391d5b56923f1b7d441962872b61fb812a27d0392f8f6b2520b7b06d",
+   "parameters.tsv": "ad8605c9dc3626b8e03fb562ff1284cab3c7fde79be42eba210c5a2db189f7f7",
+   "problem.yaml": "16fd70a09e7ee100637e9ab9e2efcf46a3420e2de9569ebaacec041fe1755158",
+   "visualizations.tsv": "a61542a4637380e326bf73e003e4a55a4a1f4e9e00fe8a49bf9b671dc1d8ec4b"
+  },
+  "versao_colecao": "2026.1.23.dev21+g32d021a01"
+ },
+ "Elowitz_Nature2000": {
+  "arquivos": {
+   "conditions.tsv": "ce73b11e7c375a7e4ac65148328cfd0d623281c24a4d4aaa52f658983be49d3c",
+   "measurements.tsv": "c7a64a3c2877b9ca760cdc97c633da1846f647c227c07d3100c3e4227603d8d7",
+   "model.xml": "3a3f7d96e618791124da46337b6e95126c4985429f65adb212f82c18d79b1640",
+   "observables.tsv": "f71d540ff7529302c3eb71675c918b4a329ace57c84ee05623fe23d0ac3cfd99",
+   "parameters.tsv": "f32943b26065cd92cc8e25fd0cca0ec0f11329833c2623de0084bd2702eccd61",
+   "problem.yaml": "16fd70a09e7ee100637e9ab9e2efcf46a3420e2de9569ebaacec041fe1755158",
+   "visualizations.tsv": "c28b2c627af3bc8e6293868bd607bc124bf99ef95e6bbfa908888a9bc34fd455"
+  },
+  "versao_colecao": "2026.1.23.dev21+g32d021a01"
+ },
+ "Perelson_Science1996": {
+  "arquivos": {
+   "conditions.tsv": "49ed9df2d2c2aa829344d975375866328a6c49d890328b68555844b2e2ad1939",
+   "measurements.tsv": "de026f025599f3d01e599a56028fd4ad8876fb2e79098a27cbccf39246207d09",
+   "model.xml": "828bd344bd65f2e1fc6fcdcd2a68df5307f3ee2113b916c04b474042d19b81dd",
+   "observables.tsv": "b550ec14590cca1a5f0c9e878cdd4504803d944031ea1fdcc82ba41afd069c0d",
+   "parameters.tsv": "54096596a5b38c1d52ae000eefe21e9735545915ef8c31c3a74f108f5ab57c29",
+   "problem.yaml": "16fd70a09e7ee100637e9ab9e2efcf46a3420e2de9569ebaacec041fe1755158",
+   "visualizations.tsv": "ddcfc8bbc940ad73439f3f1c6ed56667b0b29ea64c23cb35b0e258f4cfd52230"
+  },
+  "versao_colecao": "2026.1.23.dev21+g32d021a01"
+ },
+ "SalazarCavazos_MBoC2020": {
+  "arquivos": {
+   "conditions.tsv": "9fbcc8ec8300f4789bfd6152d03ff510afbb2275872e88a379fc3f796f26cee8",
+   "measurements.tsv": "fc7dff703b7ed03ad2b2a74f1cccd21ba8d5a15b78b939b6e35d75561267b82d",
+   "model.xml": "84dcf36f8f1d845492fd729e465beb6cf9858e9e1f0de6214510c1e9025e86ba",
+   "observables.tsv": "955480757c36865bf1933cf9e6eb43cfe90cb86251b935867adcab69259ad7a2",
+   "parameters.tsv": "17bfddd7e83ae3bceec8509eeb62e7f6ca8ddeb4edd8aafea82faa907b8554d5",
+   "problem.yaml": "16fd70a09e7ee100637e9ab9e2efcf46a3420e2de9569ebaacec041fe1755158",
+   "visualizations.tsv": "72b66a7a15dbd1a347f5df23fdb9cae7dab08d27b56e5f4dfaf0df8f2d0c65c9"
+  },
+  "versao_colecao": "2026.1.23.dev21+g32d021a01"
+ },
+ "Blasi_CellSystems2016": {
+  "arquivos": {
+   "conditions.tsv": "2182189ad31cc8404ac9622fc21f66ee948bada064a3c3cabc6c1c95b0bb3eba",
+   "measurements.tsv": "12c66679451e101829ad04a7554dce8b007c3b63b1e5b70f9d0970be891116ba",
+   "model.xml": "f9469a2b49524f5f7d3ab0fbe43f7d8cd89c30a15915e9cc99a7be32918ee9df",
+   "observables.tsv": "a395d9e3418d0aa8fa9056b851e3359e798fce2667e9b14619f4eaa368ab7d2c",
+   "parameters.tsv": "c895128dc74332b1fdc9a10c07426cc33db250fe88c6e79a363a5086eab13234",
+   "problem.yaml": "16fd70a09e7ee100637e9ab9e2efcf46a3420e2de9569ebaacec041fe1755158",
+   "visualizations.tsv": "32d2743e492b524bc39a4d98a74c547bacf30baade8e94bdbeff8b77592c3438"
+  },
+  "versao_colecao": "2026.1.23.dev21+g32d021a01"
+ },
+ "Liu_IFACPapersOnLine2025": {
+  "arquivos": {
+   "conditions.tsv": "10097f2f12235115431df50ba5cf9c78e74b043e263414a0f532689ff340af64",
+   "measurements.tsv": "741800ed022d6afcc0e20418411e6b16d98f40d8522d7c0cbc2a38e385560f6a",
+   "model.xml": "80515a290a0c0f8ca5d9fa308d30b639f7ba018343066d80cb81d5b582e23f63",
+   "observables.tsv": "daed02a0415376659def579d2c1b63e50997516edc85dc85002f7d09cb5df85a",
+   "parameters.tsv": "d8cd108ec1729ddd2fd2d2fa00e64fc1bc2a3fbbfd257c2cc716b219fd0028ce",
+   "problem.yaml": "16fd70a09e7ee100637e9ab9e2efcf46a3420e2de9569ebaacec041fe1755158",
+   "visualizations.tsv": "82e52cf3e78884a373399c85866aaa75274a7a13a06c2d022939c66c7581d1c4"
+  },
+  "versao_colecao": "2026.1.23.dev21+g32d021a01"
+ },
+ "Oliveira_NatCommun2021": {
+  "arquivos": {
+   "conditions.tsv": "e172dec0c402fc88b262eca69a8a4726d6bab37195bf60e0cf3a3d5b1855fbe8",
+   "measurements.tsv": "71c30b8c7771585773add7728eca47e18308c2dfa7a5d2511447c1765c1c4f15",
+   "model.xml": "49ea75a2ea36c4f79c928f6a30470dd15605272b986d6f99ddbeef16f95cea55",
+   "observables.tsv": "a90a98df98e5cbabfe6c314f764480fb1c62f179b7885ebf7ff3171a5347c90d",
+   "parameters.tsv": "a652d9986ddcf85f8c6225b8c61f739322e2f7165ce7dfb6100c7e2ff197d6a8",
+   "problem.yaml": "16fd70a09e7ee100637e9ab9e2efcf46a3420e2de9569ebaacec041fe1755158",
+   "visualizations.tsv": "e3930710b76f51c033abf85ebe83735aafe45cbdc96f6bf6a4aaa66e2c736d80"
+  },
+  "versao_colecao": "2026.1.23.dev21+g32d021a01"
+ },
+ "Laske_PLOSComputBiol2019": {
+  "arquivos": {
+   "conditions.tsv": "e31b591aad0c8fc1f895755fd7ab117befb327c1dd6abe756c245a50cf8fb803",
+   "measurements.tsv": "2ef663f493df5610b6bd04b7c071157d3a75debea3f105a64341c26ed5df018a",
+   "model.xml": "c235713beb5228f46f52fa4e7e6be600df4e8cb99a842935d8b63f49c09207f7",
+   "observables.tsv": "9faff912b9637beeab3df9294bad3b9cdb9eb9ecaad6d08c5f76aaf2c172fc08",
+   "parameters.tsv": "02433fa16341ca19467ea4119b087752ccf5d5d052b6e3d8d96ebbeba38b8ded",
+   "problem.yaml": "16fd70a09e7ee100637e9ab9e2efcf46a3420e2de9569ebaacec041fe1755158",
+   "visualizations.tsv": "e89fd01f5aa3cd80bc3ca7a764e0907d4f11c794d95e8ed177ad226bd9bf7559"
+  },
+  "versao_colecao": "2026.1.23.dev21+g32d021a01"
+ },
+ "Armistead_CellDeathDis2024": {
+  "arquivos": {
+   "conditions.tsv": "70b35e17920136f62f7cccb7c552f2212c8c61e5574673b53b20ec8bff4a78d9",
+   "measurements.tsv": "f8fc66c554581b61fe9cb98451aeb9ac123ac23476d2bc641aebc684f573b59e",
+   "model.xml": "09ee7897c13f94de0fb0c9fa5c9e3ebce88f04b86076abe325eb4c63c474e734",
+   "observables.tsv": "3efe4001044d992a210ff31b263a47d788d60e4e40d8d8ece79f82fb2febf49b",
+   "parameters.tsv": "cd25ec9bd9934b41ce31d146065c695125b3a805fa9dd05fba22be48a25884eb",
+   "problem.yaml": "16fd70a09e7ee100637e9ab9e2efcf46a3420e2de9569ebaacec041fe1755158",
+   "visualizations.tsv": "662cbcb84c1979e6972726dfece9e03ec8f35fb9c250989f05a86beff014f265"
+  },
+  "versao_colecao": "2026.1.23.dev21+g32d021a01"
+ },
+ "Okuonghae_ChaosSolitonsFractals2020": {
+  "arquivos": {
+   "conditions.tsv": "77c3be1938126f7f36f1d682e67f26c80f8ccc6da72d0edbd3345aac66eaa0c1",
+   "measurements.tsv": "313770ec874ca151113767d385dc1633dacb41c774c8e2170f542a6ed87ccdfe",
+   "model.xml": "773631da51ad82aedfa4084f5f25a40d317282f8115ef77e8599e3db47a30734",
+   "observables.tsv": "585a60a0abd120b2bc79584ee25b0bb6a94e7f84237ea9b97a64ba9a80f112f5",
+   "parameters.tsv": "a114bbac0c5c116c6449128f8d12ce4182dcb521fb21956478bfc0dc51f37d05",
+   "problem.yaml": "16fd70a09e7ee100637e9ab9e2efcf46a3420e2de9569ebaacec041fe1755158",
+   "visualizations.tsv": "2363c3d9a7cb188ad7482a6904c43597618bd299b357e04f38ec41d49b313fde"
+  },
+  "versao_colecao": "2026.1.23.dev21+g32d021a01"
+ }
+}

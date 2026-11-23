@@ -1,0 +1,42 @@
+problema,rotulo,classe,d,c2st_nulo_media,c2st_nulo_max,c2st_nulo_dp,pares
+Bertozzi_PNAS2020,Bertozzi (PEtab),PEtab,8,0.4996,0.5105,0.01207,4
+Boehm_JProteomeRes2014,Boehm (PEtab),PEtab,9,0.5056,0.5135,0.007761,4
+Bruno_JExpBot2016,Bruno (PEtab),PEtab grande,13,0.5105,0.5255,0.01075,4
+Crauste_CellSystems2017,Crauste (PEtab),PEtab,12,0.5114,0.5175,0.005105,4
+Elowitz_Nature2000,Elowitz (PEtab),PEtab grande,21,0.5139,0.5285,0.01632,4
+Fujita_SciSignal2010,Fujita (PEtab),PEtab grande,19,0.4972,0.5125,0.01193,4
+Rahman_MBS2016,Rahman (PEtab),PEtab,9,0.5023,0.511,0.00893,4
+Sneyd_PNAS2002,Sneyd (PEtab),PEtab grande,15,0.4992,0.514,0.01005,4
+adveccao_difusao,Advecção–difusão,EDP,2,0.4981,0.527,0.02161,4
+allen_cahn,Allen–Cahn,EDP,2,0.4993,0.5255,0.01823,4
+allen_cahn_meta,Allen–Cahn metaestável,EDP difícil,3,0.4981,0.5035,0.00446,4
+brusselator,Brusselator,EDO,2,0.5009,0.5265,0.01951,4
+burgers,Burgers viscoso,EDP,2,0.4937,0.4995,0.004193,4
+cadeia_simetrica,Cadeia de decaimento,EDO difícil,3,0.504,0.526,0.01918,4
+calor,Calor com fonte,EDP,2,0.5009,0.5125,0.008076,4
+calor_inverso,Calor inverso,EDP difícil,8,0.4989,0.5105,0.007889,4
+darcy,Darcy (difusão estacionária),EDP,6,0.4979,0.5115,0.01053,4
+darcy16,Darcy (16 coeficientes),EDP difícil,16,0.5088,0.528,0.01303,4
+fhn_difusao,FitzHugh–Nagumo com difusão,EDP difícil,4,0.5006,0.507,0.007087,4
+fisher_frente,Fisher–KPP (um instante),EDP difícil,3,0.5024,0.511,0.01032,4
+fisher_kpp,Fisher–KPP,EDP,2,0.4857,0.5145,0.02067,4
+fitzhugh_nagumo,FitzHugh–Nagumo,EDO,3,0.5069,0.5225,0.01055,4
+goodwin,Goodwin,EDO,4,0.5014,0.508,0.006969,4
+goodwin_hill,Goodwin (Hill livre),EDO difícil,5,0.4955,0.509,0.01254,4
+hires,HIRES,EDO difícil,4,0.5052,0.512,0.006305,4
+lorenz63,Lorenz-63,EDO,3,0.5182,0.5415,0.02559,4
+lorenz63_longo,Lorenz-63 (janela longa),EDO difícil,3,0.5049,0.513,0.009869,4
+lorenz96,Lorenz-96,EDO difícil,2,0.4965,0.508,0.01337,4
+lotka_volterra,Lotka–Volterra,EDO,4,0.502,0.518,0.01423,4
+onda,Onda amortecida,EDP,2,0.4935,0.511,0.01449,4
+oscilador,Oscilador forçado,EDO,3,0.5022,0.5355,0.02244,4
+pendulo,Pêndulo amortecido,EDO,2,0.4994,0.511,0.0147,4
+pk2,PK de dois compartimentos,EDO,4,0.4978,0.511,0.01298,4
+pk_flipflop,PK com flip-flop,EDO difícil,3,0.4941,0.5105,0.01148,4
+produto,Decaimento com escala,EDO difícil,3,0.5001,0.5185,0.01409,4
+repressilator,Repressilador,EDO difícil,4,0.5016,0.5055,0.004732,4
+robertson,Robertson,EDO difícil,3,0.5016,0.522,0.01795,4
+rosenzweig_macarthur,Rosenzweig–MacArthur,EDO,5,0.5065,0.5235,0.02151,4
+seir,SEIR,EDO,3,0.5015,0.533,0.02565,4
+seir_inicio,SEIR (só o início),EDO difícil,3,0.4936,0.501,0.01345,4
+van_der_pol,Van der Pol,EDO,2,0.5011,0.5135,0.0125,4
